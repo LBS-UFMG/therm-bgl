@@ -1,0 +1,1001 @@
+class,uniprot_id,name
+positive,A0A918YV47,A0A918YV47_9GAMM Beta-glucosidase OS=Vulcaniibacterium thermophilum OX=1169913 GN=GCM10007167_03210 PE=3 SV=1
+negative,A0A9W9V3X9,A0A9W9V3X9_PENBR Probable beta-glucosidase M OS=Penicillium brevicompactum OX=5074 GN=N7541_000700 PE=3 SV=1
+positive,A0A1V5N2J5,A0A1V5N2J5_9BACT Thermostable beta-glucosidase B OS=Bacteroidetes bacterium ADurb.Bin416 OX=1852814 GN=bglB PE=3 SV=1
+negative,A0A2M9BL97,A0A2M9BL97_9BACT beta-glucosidase OS=Hymenobacter chitinivorans DSM 11115 OX=1121954 GN=CLV45_0100 PE=3 SV=1
+positive,A0A455T9D6,A0A455T9D6_9CHLR Beta-glucosidase OS=Thermogemmatispora argillosa OX=2045280 GN=KTA_41840 PE=3 SV=1
+negative,A0A536BYB0,A0A536BYB0_UNCCH Glycoside hydrolase family 1 protein OS=Chloroflexota bacterium OX=2026724 GN=E6I47_03235 PE=3 SV=1
+positive,A0A160VSF2,A0A160VSF2_9EURY Beta-galactosidase OS=Thermococcus chitonophagus OX=54262 GN=A3L04_02920 PE=3 SV=1
+negative,A0A958SSP5,A0A958SSP5_9FLAO beta-glucosidase (Fragment) OS=Mangrovimonas sp OX=2020865 GN=bglX PE=3 SV=1
+positive,A0A1M6I6X3,A0A1M6I6X3_9FIRM Beta-glucosidase OS=Thermoclostridium caenicola OX=659425 GN=SAMN05444373_103915 PE=3 SV=1
+negative,A0A7S6Z032,A0A7S6Z032_9XANT beta-glucosidase OS=Xanthomonas sp. WG16 OX=2776703 GN=IG630_09150 PE=4 SV=1
+positive,A0A4U8VYZ2,A0A4U8VYZ2_9NOCA Thermostable beta-glucosidase B OS=Nocardia cyriacigeorgica OX=135487 GN=bglB PE=3 SV=1
+negative,A0AA97N654,A0AA97N654_9PASS beta-glucosidase (Fragment) OS=Menura novaehollandiae OX=47692 GN=Bgld PE=3 SV=1
+positive,A0A377FYJ0,A0A377FYJ0_9BACL Thermostable beta-glucosidase B OS=Exiguobacterium aurantiacum OX=33987 GN=bglB_2 PE=3 SV=1
+negative,A0A1G9WNI1,A0A1G9WNI1_9ACTN beta-glucosidase OS=Nocardioides szechwanensis OX=1005944 GN=SAMN05192576_1114 PE=4 SV=1
+positive,A0A1C5TMX2,A0A1C5TMX2_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_16 PE=3 SV=1
+negative,A0A2A9CVK8,A0A2A9CVK8_9ACTN Beta-glucosidase OS=Propionicimonas paludicola OX=185243 GN=ATK74_2265 PE=3 SV=1
+positive,A0A430SI41,A0A430SI41_THESC Beta-glucosidase OS=Thermus scotoductus OX=37636 GN=CSW37_00635 PE=3 SV=1
+negative,A0A4R8T924,A0A4R8T924_9PEZI Putative alpha/beta-glucosidase agdC OS=Colletotrichum sidae OX=1347389 GN=agdC PE=3 SV=1
+positive,E0RQX8,E0RQX8_SPITD Beta-glucosidase OS=Spirochaeta thermophila (strain ATCC 49972 / DSM 6192 / RI 19.B1) OX=665571 GN=STHERM_c21030 PE=3 SV=1
+negative,A0A1E5PRD2,A0A1E5PRD2_9ACTN Beta-glucosidase OS=Streptomyces subrutilus OX=36818 GN=BGK67_12750 PE=3 SV=1
+positive,A6YRT4,A6YRT4_9PEZI beta-glucosidase OS=Thermochaetoides thermophila OX=209285 PE=1 SV=2
+negative,A0A135LTE4,A0A135LTE4_PENPA Probable beta-glucosidase L OS=Penicillium patulum OX=5078 GN=PGRI_085270 PE=3 SV=1
+positive,A0A921CK23,A0A921CK23_9CHLR beta-glucosidase (Fragment) OS=Thermoflexia bacterium OX=2420334 GN=G4N97_09425 PE=3 SV=1
+negative,A0A6N3ELJ0,A0A6N3ELJ0_9CLOT Beta-glucosidase A OS=uncultured Clostridium sp OX=59620 GN=bglA PE=3 SV=1
+positive,B3VE09,B3VE09_9BACI Thermostable beta glucosidase-like protein OS=Geobacillus sp. TC-S8 OX=539238 PE=3 SV=1
+negative,A0A402AWY6,A0A402AWY6_9CHLR beta-glucosidase OS=Dictyobacter kobayashii OX=2014872 GN=KDK_74420 PE=4 SV=1
+positive,A0A397GHU8,A0A397GHU8_ASPTH Probable alpha/beta-glucosidase agdC OS=Aspergillus thermomutatus OX=41047 GN=CDV56_102586 PE=3 SV=1
+negative,A0A653Z0M5,A0A653Z0M5_9ALTE Beta-glucosidase OS=Alteromonas sp. 38 OX=2653129 GN=abg PE=3 SV=1
+positive,A0A3E2MPH0,A0A3E2MPH0_MYCMR Thermostable beta-glucosidase B OS=Mycobacterium marinum OX=1781 GN=bglB PE=3 SV=1
+negative,A0A6G2ZA09,A0A6G2ZA09_9ACTN beta-glucosidase OS=Streptomyces sp. SID3915 OX=2690263 GN=GT016_10450 PE=4 SV=1
+positive,A0A7Y5WZ28,A0A7Y5WZ28_9ACTN Beta-glucosidase OS=Thermoleophilia bacterium OX=2026888 GN=HOQ28_07180 PE=3 SV=1
+negative,A0A6L7HS75,A0A6L7HS75_9GAMM beta-glucosidase OS=Shewanella insulae OX=2681496 GN=GNT65_00050 PE=4 SV=1
+positive,A0A0B0S9N8,A0A0B0S9N8_THES0 Beta-glucosidase OS=Thermus sp. (strain 2.9) OX=1577051 GN=QT17_12370 PE=3 SV=1
+negative,A0A8H4USS7,A0A8H4USS7_9HYPO beta-glucosidase OS=Fusarium zealandicum OX=1053134 GN=FZEAL_1417 PE=3 SV=1
+positive,A0A1C5MUE0,A0A1C5MUE0_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_1 PE=3 SV=1
+negative,J3ANZ0,J3ANZ0_9SPHN Beta-glucosidase OS=Novosphingobium sp. AP12 OX=1144305 GN=PMI02_00680 PE=3 SV=1
+positive,A0A9C7RLB8,A0A9C7RLB8_9THEM Beta-glucosidase OS=Thermotoga sp OX=28240 GN=ENG15_03670 PE=3 SV=1
+negative,A0A921CNA6,A0A921CNA6_9CLOT Beta-glucosidase OS=Clostridiaceae bacterium OX=1898204 GN=GXX36_02345 PE=3 SV=1
+positive,G2R0U0,G2R0U0_THETT beta-glucosidase OS=Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126) OX=578455 GN=THITE_2111169 PE=3 SV=1
+negative,A0A3Y5ACJ4,A0A3Y5ACJ4_SALET beta-glucosidase OS=Salmonella enterica I OX=59201 GN=bglX PE=3 SV=1
+positive,L7VH66,L7VH66_THES1 Thermostable beta-glucosidase B OS=Thermoclostridium stercorarium (strain ATCC 35414 / DSM 8532 / NCIMB 11754) OX=1121335 GN=bglB PE=3 SV=1
+negative,A0A367G1L2,A0A367G1L2_9FIRM Beta-glucosidase OS=Subdoligranulum sp. APC924/74 OX=2086273 GN=C4885_15155 PE=3 SV=1
+positive,Q0GA07,Q0GA07_THETH Beta-glucosidase OS=Thermus thermophilus OX=274 PE=3 SV=1
+negative,A0A412YR44,A0A412YR44_BACFG beta-glucosidase OS=Bacteroides fragilis OX=817 GN=DWW08_01855 PE=3 SV=1
+positive,A0A1C5YTZ7,A0A1C5YTZ7_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_3 PE=3 SV=1
+negative,A0A2H3C556,A0A2H3C556_9AGAR beta-glucosidase OS=Armillaria solidipes OX=1076256 GN=ARMSODRAFT_903578 PE=3 SV=1
+positive,A0A662IB65,A0A662IB65_9CREN beta-glucosidase (Fragment) OS=Thermoprotei archaeon OX=2250277 GN=DRJ96_05885 PE=3 SV=1
+negative,A0A2T6D4I7,A0A2T6D4I7_9BACT Beta-glucosidase OS=Verrucomicrobia bacterium LW23 OX=2161867 GN=DB346_20335 PE=3 SV=1
+positive,A9QUC4,A9QUC4_THEAU beta-glucosidase OS=Thermoascus aurantiacus var. levisporus OX=306553 GN=bgl2 PE=2 SV=1
+negative,A0A222JVF0,A0A222JVF0_RHIML Beta-glucosidase OS=Rhizobium meliloti OX=382 GN=CN211_16570 PE=3 SV=1
+positive,A0A7Y1ZSM1,A0A7Y1ZSM1_9BACT beta-glucosidase OS=Rhodothermales bacterium OX=2306054 GN=HKN43_16695 PE=4 SV=1
+negative,A0A7W8SNL8,A0A7W8SNL8_9BURK Beta-glucosidase OS=Paraburkholderia sp. WSM4180 OX=2723099 GN=HDG39_001974 PE=3 SV=1
+positive,A0A497GA16,A0A497GA16_9CREN beta-glucosidase OS=Thermoprotei archaeon OX=2250277 GN=DRK00_06415 PE=3 SV=1
+negative,A0A257DZX9,A0A257DZX9_9PSED beta-glucosidase OS=Pseudomonas sp. PGPPP1 OX=2015553 GN=CFE47_12990 PE=4 SV=1
+positive,A0A168EXG6,A0A168EXG6_9MICO Thermostable beta-glucosidase B OS=Isoptericola dokdonensis DS-3 OX=1300344 GN=bglB_1 PE=3 SV=1
+negative,A0A2J5IAE4,A0A2J5IAE4_9EURO Probable beta-glucosidase H OS=Aspergillus taichungensis OX=482145 GN=BDW42DRAFT_198403 PE=3 SV=1
+positive,A0A831JF63,A0A831JF63_THESB beta-glucosidase OS=Thermoanaerobacter sp OX=1755 GN=DEQ01_04300 PE=3 SV=1
+negative,A0A0F2C6I0,A0A0F2C6I0_9MICO beta-glucosidase OS=Microbacterium sp. SA39 OX=1263625 GN=bglX_3 PE=4 SV=1
+positive,A0A2N9BFH9,A0A2N9BFH9_STRCX Thermostable beta-glucosidase B OS=Streptomyces chartreusis NRRL 3882 OX=1079985 GN=bglB PE=3 SV=1
+negative,A0A5C6QZ22,A0A5C6QZ22_9GAMM beta-glucosidase OS=Colwellia sp. C1TZA3 OX=2508879 GN=ESZ39_01670 PE=4 SV=1
+positive,A0AAQ1PLP1,A0AAQ1PLP1_ELIMR Thermostable beta-glucosidase B OS=Elizabethkingia miricola OX=172045 GN=bglB PE=4 SV=1
+negative,A0A165CTR5,A0A165CTR5_9APHY beta-glucosidase OS=Laetiporus sulphureus 93-53 OX=1314785 GN=LAESUDRAFT_729223 PE=3 SV=1
+positive,A0A101EQH9,A0A101EQH9_9THEM Beta-glucosidase OS=Thermotoga petrophila OX=93929 GN=XD57_0876 PE=3 SV=1
+negative,A0A4Z1JT11,A0A4Z1JT11_9HELO beta-glucosidase OS=Botrytis elliptica OX=278938 GN=BELL_0138g00020 PE=3 SV=1
+positive,A0A7H1NNX3,A0A7H1NNX3_9PROT Thermostable beta-glucosidase B OS=Entomobacter blattae OX=2762277 GN=bglB PE=3 SV=1
+negative,A0A1V6QRB1,A0A1V6QRB1_9EURO Probable beta-glucosidase I OS=Penicillium solitum OX=60172 GN=PENSOL_c049G07270 PE=3 SV=1
+positive,A0A397H353,A0A397H353_ASPTH Probable beta-glucosidase M OS=Aspergillus thermomutatus OX=41047 GN=CDV56_106180 PE=3 SV=1
+negative,A0A3G8H695,A0A3G8H695_9BURK beta-glucosidase OS=Cupriavidus pauculus OX=82633 GN=bglX PE=3 SV=1
+positive,P26208,BGLA_ACET2 Beta-glucosidase A OS=Acetivibrio thermocellus (strain ATCC 27405 / DSM 1237 / JCM 9322 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372) OX=203119 GN=bglA PE=1 SV=1
+negative,A0A6P1EMA6,A0A6P1EMA6_9GAMM beta-glucosidase OS=Stenotrophomonas sp. 364 OX=2691571 GN=GQ674_09005 PE=4 SV=1
+positive,A0A564TGE1,A0A564TGE1_9FIRM Thermostable beta-glucosidase B OS=[Ruminococcus] torques OX=33039 GN=bglB_4 PE=3 SV=1
+negative,A0A6B3NIH9,A0A6B3NIH9_9PSED beta-glucosidase OS=Pseudomonas brassicae OX=2708063 GN=bglX PE=3 SV=1
+positive,A0A385LT42,A0A385LT42_RHOMR beta-glucosidase (Fragment) OS=Rhodothermus marinus OX=29549 PE=3 SV=1
+negative,A0A4D4MPG0,A0A4D4MPG0_STRAX Beta-glucosidase OS=Streptomyces avermitilis OX=33903 GN=SAV14893_051650 PE=3 SV=1
+positive,A0A1H6DKF4,A0A1H6DKF4_9ACTN beta-glucosidase OS=Thermomonospora echinospora OX=1992 GN=SAMN04489712_11842 PE=3 SV=1
+negative,A0A1L7WB07,A0A1L7WB07_FUSPR beta-glucosidase OS=Fusarium proliferatum (strain ET1) OX=1227346 GN=FPRO_16013 PE=3 SV=1
+positive,A0A163RU61,A0A163RU61_9CELL Thermostable beta-glucosidase B OS=Oerskovia enterophila OX=43678 GN=bglB_4 PE=3 SV=1
+negative,A0A191WK02,A0A191WK02_9MICO Beta-glucosidase OS=Agromyces aureus OX=453304 GN=ATC03_02550 PE=3 SV=1
+positive,A0A7W3R6Q0,A0A7W3R6Q0_9ACTN Beta-glucosidase OS=Thermomonospora cellulosilytica OX=1411118 GN=HNR21_000714 PE=3 SV=1
+negative,W4FKM4,W4FKM4_APHAT beta-glucosidase OS=Aphanomyces astaci OX=112090 GN=H257_15979 PE=4 SV=1
+positive,K2PNL2,K2PNL2_THEA7 Beta-glucosidase OS=Thermosipho africanus (strain H17ap60334) OX=1161912 GN=H17ap60334_07058 PE=3 SV=1
+negative,A0A0J8R577,A0A0J8R577_COCIT Probable beta-glucosidase btgE OS=Coccidioides immitis RMSCC 3703 OX=454286 GN=CISG_08228 PE=4 SV=1
+positive,A0A1H6AZS1,A0A1H6AZS1_9ACTN Beta-glucosidase OS=Thermomonospora echinospora OX=1992 GN=SAMN04489712_106100 PE=3 SV=1
+negative,A0A554G598,A0A554G598_9BACT Beta-glucosidase OS=Corallococcus sp. Z5C101001 OX=2596829 GN=FOF48_22195 PE=3 SV=1
+positive,A0A6J5FXX2,A0A6J5FXX2_9BURK Thermostable beta-glucosidase B OS=Paraburkholderia fynbosensis OX=1200993 GN=bglB_2 PE=3 SV=1
+negative,A0A6I3XTN3,A0A6I3XTN3_9BURK beta-glucosidase OS=Pseudoduganella dura OX=321982 GN=GJV26_25910 PE=4 SV=1
+positive,A0A3G4W3F6,A0A3G4W3F6_9ACTN Thermostable beta-glucosidase B OS=Streptomyces sp. ADI95-16 OX=1522758 GN=bglB PE=3 SV=1
+negative,A0A2T6FFB1,A0A2T6FFB1_9GAMM beta-glucosidase OS=Cellvibrio sp. 79 OX=1954207 GN=B0W54_20195 PE=4 SV=1
+positive,A0A9D9JGN3,A0A9D9JGN3_9BACT Beta-glucosidase OS=Thermomicrobium sp OX=1969469 GN=J7450_02340 PE=3 SV=1
+negative,A0A428P531,A0A428P531_9HYPO beta-glucosidase OS=Fusarium sp. AF-6 OX=1325737 GN=CEP53_009644 PE=3 SV=1
+positive,A0A3G1A7S8,A0A3G1A7S8_9CREN Beta-glucosidase OS=Thermofilum adornatum 1505 OX=697581 GN=TCARB_1127 PE=3 SV=1
+negative,A0A5N6ESZ5,A0A5N6ESZ5_9EURO Probable beta-glucosidase G OS=Aspergillus novoparasiticus OX=986946 GN=BDV33DRAFT_231443 PE=3 SV=1
+positive,A0A2E3QZC3,A0A2E3QZC3_9BACT beta-glucosidase OS=Rhodothermaceae bacterium OX=2026787 GN=CMM85_15275 PE=4 SV=1
+negative,A0A815I870,A0A815I870_9BILA beta-glucosidase OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS29432 PE=3 SV=1
+positive,A0A2S6XAI7,A0A2S6XAI7_9ACTN Thermostable beta-glucosidase B OS=Streptomyces sp. MH60 OX=1940758 GN=bglB_1 PE=3 SV=1
+negative,A0A654G2Y9,A0A654G2Y9_ARATH beta-glucosidase OS=Arabidopsis thaliana OX=3702 GN=AN1_LOCUS22889 PE=4 SV=1
+positive,A0A4U8Q5F9,A0A4U8Q5F9_9FIRM Thermostable beta-glucosidase B OS=Robinsoniella peoriensis OX=180332 GN=bglB_5 PE=3 SV=1
+negative,A0A7C3M843,A0A7C3M843_UNCFI Beta-glucosidase OS=Bacillota bacterium OX=1879010 GN=ENW80_08450 PE=3 SV=1
+positive,A0A1C5VAW7,A0A1C5VAW7_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_3 PE=3 SV=1
+negative,A0A174NZ99,A0A174NZ99_BACUN beta-glucosidase OS=Bacteroides uniformis OX=820 GN=bglX_4 PE=3 SV=1
+positive,G2QSU8,G2QSU8_THETT beta-glucosidase OS=Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126) OX=578455 GN=THITE_2107120 PE=3 SV=1
+negative,A0A7X9J8N4,A0A7X9J8N4_9CHLR Beta-glucosidase OS=Anaerolineaceae bacterium OX=2024896 GN=GYA58_08275 PE=3 SV=1
+positive,Q60038,Q60038_THENE Beta-glucosidase OS=Thermotoga neapolitana OX=2337 GN=bglB PE=3 SV=1
+negative,A0A839T814,A0A839T814_AZOMA beta-glucosidase OS=Azomonas macrocytogenes OX=69962 GN=FHR87_003663 PE=3 SV=1
+positive,A0A2X2SX46,A0A2X2SX46_CAPOC Thermostable beta-glucosidase B OS=Capnocytophaga ochracea OX=1018 GN=bglB PE=3 SV=1
+negative,A0A2H3RK75,A0A2H3RK75_GIBFU Probable beta-glucosidase btgE OS=Gibberella fujikuroi OX=5127 GN=C2S_6753 PE=4 SV=1
+positive,A0A381FEZ9,A0A381FEZ9_9FLAO Thermostable beta-glucosidase B OS=Chryseobacterium indoltheticum OX=254 GN=bglB_1 PE=3 SV=1
+negative,T1ATN8,T1ATN8_9ZZZZ Protein containing Glycoside hydrolase- family 3 (Fragment) OS=mine drainage metagenome OX=410659 GN=B2A_09726 PE=3 SV=1
+positive,A0A3B0S329,A0A3B0S329_9ZZZZ beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MNBD_ACTINO01-1970 PE=4 SV=1
+negative,A0A3D9GBW7,A0A3D9GBW7_9BACL beta-glucosidase OS=Paenibacillus sp. VMFN-D1 OX=2135608 GN=C7820_6113 PE=3 SV=1
+positive,A0AA35U7I0,A0AA35U7I0_9HYPH Thermostable beta-glucosidase B OS=Rhodobiaceae bacterium UBA7378 OX=1952833 GN=bglB PE=3 SV=1
+negative,A0A3D3Z3E6,A0A3D3Z3E6_9PROT beta-glucosidase OS=Hyphomonadaceae bacterium OX=2026748 GN=DIU09_06100 PE=4 SV=1
+positive,A0A1C6A4A8,A0A1C6A4A8_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_2 PE=3 SV=1
+negative,A0A3C0IRE3,A0A3C0IRE3_9BACT beta-glucosidase (Fragment) OS=Chitinophagaceae bacterium OX=1869212 GN=DCL43_09235 PE=4 SV=1
+positive,A0A173SIA4,A0A173SIA4_9FIRM Thermostable beta-glucosidase B OS=Roseburia inulinivorans OX=360807 GN=bglB_2 PE=3 SV=1
+negative,A0A2I0JLM2,A0A2I0JLM2_PUNGR beta-glucosidase OS=Punica granatum OX=22663 GN=CRG98_023164 PE=4 SV=1
+positive,G2QCQ3,G2QCQ3_THET4 beta-glucosidase OS=Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799) OX=573729 GN=MYCTH_80304 PE=3 SV=1
+negative,A0A2T2X554,A0A2T2X554_9FIRM beta-glucosidase OS=Sulfobacillus benefaciens OX=453960 GN=C7B43_08180 PE=3 SV=1
+positive,A0A174ZWG0,A0A174ZWG0_9FIRM Thermostable beta-glucosidase B OS=[Ruminococcus] torques OX=33039 GN=bglB_3 PE=3 SV=1
+negative,A0A2M7G2Q5,A0A2M7G2Q5_9BACT Glycoside hydrolase family 1 protein OS=bacterium (Candidatus Blackallbacteria) CG17_big_fil_post_rev_8_21_14_2_50_48_46 OX=2014261 GN=COW36_16210 PE=3 SV=1
+positive,A0A0H5NHX0,A0A0H5NHX0_NOCFR Thermostable beta-glucosidase B OS=Nocardia farcinica OX=37329 GN=bglB_2 PE=3 SV=1
+negative,A0AAD4PTC2,A0AAD4PTC2_9EURO beta-glucosidase OS=Talaromyces proteolyticus OX=1131652 GN=BGW36DRAFT_430801 PE=3 SV=1
+positive,A0A1C5UNJ5,A0A1C5UNJ5_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_17 PE=3 SV=1
+negative,A0A5N6LWB7,A0A5N6LWB7_9ASTR beta-glucosidase OS=Mikania micrantha OX=192012 GN=E3N88_39198 PE=4 SV=1
+positive,A0AA96Y259,A0AA96Y259_9CYAN Beta-glucosidase OS=Thermoleptolyngbya oregonensis NK1-22 OX=2547457 GN=HNI00_02785 PE=3 SV=1
+negative,A0A1S9A7W2,A0A1S9A7W2_9BURK beta-glucosidase OS=Massilia sp. KIM OX=1955422 GN=B0920_24625 PE=3 SV=1
+positive,A0A1S8SAP1,A0A1S8SAP1_CLOBE Thermostable beta-glucosidase B OS=Clostridium beijerinckii OX=1520 GN=bglB_1 PE=3 SV=1
+negative,A0A177K7Y7,A0A177K7Y7_9MICO Beta-glucosidase OS=Microbacterium oleivorans OX=273677 GN=AYL44_11770 PE=3 SV=1
+positive,A0A564SXP7,A0A564SXP7_9FIRM Thermostable beta-glucosidase B OS=Faecalibacterium prausnitzii OX=853 GN=bglB_1 PE=3 SV=1
+negative,A0A173MGM2,A0A173MGM2_9BACT beta-glucosidase OS=Filimonas lacunae OX=477680 GN=SAMN05421788_107231 PE=4 SV=1
+positive,A0A1C5N9A4,A0A1C5N9A4_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_2 PE=3 SV=1
+negative,A0A1L0D7Y6,A0A1L0D7Y6_9ASCO beta-glucosidase OS=[Candida] intermedia OX=45354 GN=SAMEA4029009_CIC11G00000002312 PE=3 SV=1
+positive,A0A173U433,A0A173U433_EUBRA Thermostable beta-glucosidase B OS=Eubacterium ramulus OX=39490 GN=bglB_2 PE=3 SV=1
+negative,A0A7V4MS50,A0A7V4MS50_9BACT beta-glucosidase (Fragment) OS=Lentisphaerota bacterium OX=1932692 GN=ENT50_08035 PE=3 SV=1
+positive,A0A2T0BIJ8,A0A2T0BIJ8_9CLOT Thermostable beta-glucosidase B OS=Clostridium vincentii OX=52704 GN=bglB_1 PE=3 SV=1
+negative,A0A6A6UYQ3,A0A6A6UYQ3_9PLEO Glycoside hydrolase family 31 protein (Fragment) OS=Sporormia fimetaria CBS 119925 OX=1340428 GN=M011DRAFT_431114 PE=3 SV=1
+positive,A0A174CUR9,A0A174CUR9_9FIRM Thermostable beta-glucosidase B OS=Blautia obeum OX=40520 GN=bglB_1 PE=3 SV=1
+negative,A0A1Z9CE62,A0A1Z9CE62_9BACT beta-glucosidase OS=Candidatus Marinimicrobia bacterium TMED108 OX=1986777 GN=CBC68_00555 PE=3 SV=1
+positive,A0A109QK50,A0A109QK50_9DEIN Beta-glucosidase OS=Thermus parvatiensis OX=456163 GN=AV541_10735 PE=3 SV=1
+negative,A0A4Y8DDK9,A0A4Y8DDK9_9HELO Probable alpha/beta-glucosidase agdC OS=Botryotinia calthae OX=38488 GN=BOTCAL_0050g00110 PE=3 SV=1
+positive,A0A1C5W9N9,A0A1C5W9N9_9BACE Thermostable beta-glucosidase B OS=uncultured Bacteroides sp OX=162156 GN=bglB_5 PE=3 SV=1
+negative,A0A5C6VKC5,A0A5C6VKC5_9BACI Beta-glucosidase OS=Metabacillus litoralis OX=152268 GN=FS935_18765 PE=3 SV=1
+positive,A0A8J6HSN2,A0A8J6HSN2_9FIRM beta-glucosidase OS=Capillibacterium thermochitinicola OX=2699427 GN=G5B42_07745 PE=3 SV=1
+negative,A0A2P6PD02,A0A2P6PD02_ROSCH Putative beta-glucosidase OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr7g0221281 PE=4 SV=1
+positive,A0A644TB86,A0A644TB86_9ZZZZ Thermostable beta-glucosidase B OS=bioreactor metagenome OX=1076179 GN=bglB_1 PE=3 SV=1
+negative,W2Z0K9,W2Z0K9_PHYNI beta-glucosidase OS=Phytophthora nicotianae P10297 OX=1317064 GN=F442_12103 PE=4 SV=1
+positive,A0A0F6AL24,A0A0F6AL24_THESQ beta-glucosidase OS=Thermotoga sp. (strain RQ2) OX=126740 GN=TRQ2_0871 PE=3 SV=1
+negative,A0A3D2AAS0,A0A3D2AAS0_9FIRM beta-glucosidase OS=Oscillospiraceae bacterium OX=2485925 GN=DEW35_04480 PE=4 SV=1
+positive,A0A7G9SSL9,A0A7G9SSL9_9GAMM beta-glucosidase OS=Thermomonas carbonis OX=1463158 GN=H9L16_04440 PE=4 SV=1
+negative,A0A319ABX6,A0A319ABX6_ASPLB beta-glucosidase OS=Aspergillus lacticoffeatus (strain CBS 101883) OX=1450533 GN=BO96DRAFT_435792 PE=3 SV=1
+positive,A0A1C5Y578,A0A1C5Y578_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_8 PE=3 SV=1
+negative,A0A3D4BSB1,A0A3D4BSB1_9FLAO beta-glucosidase (Fragment) OS=Cryomorphaceae bacterium OX=1898111 GN=DIU20_08630 PE=4 SV=1
+positive,G2R2H5,G2R2H5_THETT Probable beta-glucosidase btgE OS=Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126) OX=578455 GN=THITE_2113377 PE=4 SV=1
+negative,A0A8J7PZQ5,A0A8J7PZQ5_9PSEU beta-glucosidase (Fragment) OS=Sciscionella sp OX=2774085 GN=J2O49_10870 PE=4 SV=1
+positive,A0A1C6CHF3,A0A1C6CHF3_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_2 PE=3 SV=1
+negative,A0AA41Q545,A0AA41Q545_9ACTN beta-glucosidase OS=Yinghuangia soli OX=2908204 GN=LZ495_28455 PE=4 SV=1
+positive,A0A174IPS5,A0A174IPS5_9FIRM Thermostable beta-glucosidase B OS=Agathobacter rectalis OX=39491 GN=bglB_1 PE=3 SV=1
+negative,A0A059AC90,A0A059AC90_EUCGR beta-glucosidase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_J00609 PE=3 SV=1
+positive,F4QHA7,F4QHA7_9CAUL Thermostable beta-glucosidase B OS=Asticcacaulis biprosthecium C19 OX=715226 GN=ABI_10810 PE=3 SV=1
+negative,A0A6A6UUC0,A0A6A6UUC0_9PEZI beta-glucosidase OS=Microthyrium microscopicum OX=703497 GN=BT63DRAFT_27887 PE=3 SV=1
+positive,A0A7U9X006,A0A7U9X006_9FIRM Thermostable beta-glucosidase B OS=Lachnospiraceae bacterium OX=1898203 GN=bglB_1 PE=3 SV=1
+negative,A7V8A6,A7V8A6_BACUC beta-glucosidase OS=Bacteroides uniformis (strain ATCC 8492 / DSM 6597 / CCUG 4942 / CIP 103695 / JCM 5828 / KCTC 5204 / NCTC 13054 / VPI 0061) OX=411479 GN=BACUNI_03824 PE=3 SV=1
+positive,Q9RA61,Q9RA61_THETH Beta-glucosidase OS=Thermus thermophilus OX=274 GN=bglT PE=1 SV=1
+negative,A0A4R6K2K0,A0A4R6K2K0_9ACTN Beta-glucosidase OS=Actinoplanes brasiliensis OX=52695 GN=C8E87_5127 PE=3 SV=1
+positive,A0A832JRP3,A0A832JRP3_9CREN beta-glucosidase (Fragment) OS=Thermofilum sp OX=1961369 GN=ENM92_02885 PE=3 SV=1
+negative,A0A0P0DJG5,A0A0P0DJG5_9CAUL beta-glucosidase OS=Brevundimonas sp. DS20 OX=1532555 GN=JL11_16560 PE=3 SV=1
+positive,A0A1C5KLJ9,A0A1C5KLJ9_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_1 PE=3 SV=1
+negative,W7LKE2,W7LKE2_GIBM7 beta-glucosidase OS=Gibberella moniliformis (strain M3125 / FGSC 7600) OX=334819 GN=FVEG_00180 PE=3 SV=1
+positive,A0A6J5DWE6,A0A6J5DWE6_9BURK Thermostable beta-glucosidase B OS=Burkholderia puraquae OX=1904757 GN=bglB_2 PE=3 SV=1
+negative,A0A2C9W142,A0A2C9W142_MANES beta-glucosidase OS=Manihot esculenta OX=3983 GN=MANES_04G051400 PE=4 SV=1
+positive,A0A326UAA6,A0A326UAA6_THEHA Beta-glucosidase OS=Thermosporothrix hazakensis OX=644383 GN=EI42_02728 PE=3 SV=1
+negative,A0A9X1XKD3,A0A9X1XKD3_9VIBR Beta-glucosidase OS=Vibrio amylolyticus OX=2847292 GN=KP803_12240 PE=3 SV=1
+positive,A0A0J6VZ47,A0A0J6VZ47_9MYCO Thermostable beta-glucosidase B OS=Mycolicibacterium obuense OX=1807 GN=bglB PE=3 SV=1
+negative,A0AAD7QJD6,A0AAD7QJD6_QUISA beta-glucosidase OS=Quillaja saponaria OX=32244 GN=O6P43_001618 PE=4 SV=1
+positive,A0A455T2J5,A0A455T2J5_9CHLR Beta-glucosidase OS=Thermogemmatispora argillosa OX=2045280 GN=KTA_18080 PE=3 SV=1
+negative,A0A7Y0LXP2,A0A7Y0LXP2_CELFI Beta-glucosidase OS=Cellulomonas fimi OX=1708 GN=HIR71_06935 PE=3 SV=1
+positive,A0AAC9CZB1,A0AAC9CZB1_9FLAO Thermostable beta-glucosidase B OS=Flavobacterium anhuiense OX=459526 GN=bglB_1 PE=3 SV=1
+negative,A0A561EP58,A0A561EP58_9ACTN Beta-glucosidase OS=Kitasatospora atroaurantiaca OX=285545 GN=FB465_2425 PE=3 SV=1
+positive,A0A081SI74,A0A081SI74_9BACT beta-glucosidase OS=[Candidatus Thermochlorobacteriaceae] bacterium GBChlB OX=1519464 GN=HY22_03825 PE=3 SV=1
+negative,A0A8H3ZMU2,A0A8H3ZMU2_9PEZI beta-glucosidase OS=Colletotrichum asianum OX=702518 GN=GQ607_007754 PE=3 SV=1
+positive,A0A6N2ZLI4,A0A6N2ZLI4_MEDGN Thermostable beta-glucosidase B OS=Mediterraneibacter gnavus OX=33038 GN=bglB_2 PE=3 SV=1
+negative,A0A2E9QF48,A0A2E9QF48_9SPIO Beta-glucosidase OS=Spirochaetaceae bacterium OX=1898206 GN=CMN76_17965 PE=3 SV=1
+positive,Q56322,Q56322_THENE beta-glucosidase OS=Thermotoga neapolitana OX=2337 GN=xloA PE=3 SV=2
+negative,A0A9W8TM30,A0A9W8TM30_9PEZI Probable beta-glucosidase G OS=Xylaria arbuscula OX=114810 GN=NPX13_g5759 PE=3 SV=1
+positive,A0A0F0LDS6,A0A0F0LDS6_9MICO Thermostable beta-glucosidase B OS=Microbacterium azadirachtae OX=582680 GN=bglB_2 PE=3 SV=1
+negative,S3AU36,S3AU36_9ACTN Beta-glucosidase OS=Streptomyces sp. HPH0547 OX=1203592 GN=HMPREF1486_04640 PE=3 SV=1
+positive,A0A2X0QFK0,A0A2X0QFK0_BROTH Beta-glucosidase A OS=Brochothrix thermosphacta OX=2756 GN=BTBSAS_150054 PE=3 SV=1
+negative,A0A0A5GJ90,A0A0A5GJ90_9BACI beta-glucosidase OS=Pontibacillus marinus BH030004 = DSM 16465 OX=1385511 GN=N783_11055 PE=3 SV=1
+positive,A0A7C3HSU0,A0A7C3HSU0_MEIRU Beta-glucosidase OS=Meiothermus ruber OX=277 GN=ENS82_10705 PE=3 SV=1
+negative,A0A3L6RD10,A0A3L6RD10_PANMI beta-glucosidase OS=Panicum miliaceum OX=4540 GN=C2845_PM06G20000 PE=3 SV=1
+positive,A0A7U9WWT4,A0A7U9WWT4_9FIRM Thermostable beta-glucosidase B OS=Lachnospiraceae bacterium OX=1898203 GN=bglB_4 PE=3 SV=1
+negative,A0A8J3XY82,A0A8J3XY82_9ACTN beta-glucosidase OS=Planotetraspora thailandica OX=487172 GN=bglX PE=4 SV=1
+positive,A0A7K0BMN1,A0A7K0BMN1_9ACTN Thermostable beta-glucosidase B OS=Actinomadura macrotermitis OX=2585200 GN=bglB_1 PE=3 SV=1
+negative,A0A1E3QTB5,A0A1E3QTB5_9ASCO beta-glucosidase OS=Babjeviella inositovora NRRL Y-12698 OX=984486 GN=BABINDRAFT_165683 PE=3 SV=1
+positive,A0A5P9PEK6,A0A5P9PEK6_9PSEU Thermostable beta-glucosidase B OS=Amycolatopsis sp. YIM 10 OX=2653857 GN=bglB1 PE=3 SV=1
+negative,A0A7W5F009,A0A7W5F009_9ACTN Beta-glucosidase OS=Streptomyces violarus OX=67380 GN=FHS41_001337 PE=3 SV=1
+positive,A0A6N3C8Q0,A0A6N3C8Q0_EUBLI Thermostable beta-glucosidase B OS=Eubacterium limosum OX=1736 GN=bglB PE=3 SV=1
+negative,R6F995,R6F995_9BACT beta-glucosidase OS=Prevotella sp. CAG:520 OX=1262929 GN=BN691_00072 PE=4 SV=1
+positive,A0A0M2HFK9,A0A0M2HFK9_9MICO Thermostable beta-glucosidase B OS=Microbacterium terrae OX=69369 GN=bglB_2 PE=3 SV=1
+negative,A0AAD4EB14,A0AAD4EB14_9AGAM beta-glucosidase OS=Suillus fuscotomentosus OX=1912939 GN=F5891DRAFT_1186090 PE=3 SV=1
+positive,A0A2K8PJE3,A0A2K8PJE3_STRLA Thermostable beta-glucosidase B OS=Streptomyces lavendulae subsp. lavendulae OX=58340 GN=bglB PE=3 SV=1
+negative,A0A1Q7M7R7,A0A1Q7M7R7_9DELT Beta-glucosidase OS=Deltaproteobacteria bacterium 13_1_40CM_3_69_14 OX=1805116 GN=AUI90_06425 PE=3 SV=1
+positive,A0A1H5XGJ4,A0A1H5XGJ4_9ACTN Beta-glucosidase OS=Thermomonospora echinospora OX=1992 GN=SAMN04489712_103247 PE=3 SV=1
+negative,A0A8I2Z9Q6,A0A8I2Z9Q6_9PEZI Probable beta-glucosidase I OS=Verticillium longisporum OX=100787 GN=HYQ45_015957 PE=3 SV=1
+positive,A0A2M9CW75,A0A2M9CW75_9BACT beta-glucosidase OS=Thermoflavifilum aggregans OX=454188 GN=BXY57_1765 PE=4 SV=1
+negative,Q83X74,Q83X74_STRRO beta-glucosidase OS=Streptomyces rochei OX=1928 GN=lkmH PE=3 SV=1
+positive,A0A1E3ATR4,A0A1E3ATR4_9FIRM Thermostable beta-glucosidase B OS=Eisenbergiella tayi OX=1432052 GN=bglB_4 PE=3 SV=1
+negative,A0A955UF09,A0A955UF09_9BACT Beta-glucosidase OS=Nitrospira sp OX=70125 GN=KC588_16685 PE=3 SV=1
+positive,A0A449BCS8,A0A449BCS8_HAPAX Thermostable beta-glucosidase B OS=Haploplasma axanthum OX=29552 GN=bglB_3 PE=3 SV=1
+negative,A0A8H3CEU7,A0A8H3CEU7_9AGAM beta-glucosidase OS=Rhizoctonia solani OX=456999 GN=RDB_LOCUS122744 PE=3 SV=1
+positive,A0A455SPV0,A0A455SPV0_9CHLR Beta-glucosidase OS=Thermosporothrix sp. COM3 OX=2490863 GN=KTC_19050 PE=3 SV=1
+negative,S9TGS6,S9TGS6_MAGFU beta-glucosidase OS=Magnetospirillum fulvum MGU-K5 OX=1316936 GN=K678_10701 PE=4 SV=1
+positive,A0A2N5RH71,A0A2N5RH71_9THEM Beta-glucosidase OS=Thermotoga sp. SG1 OX=126739 GN=AS006_02700 PE=3 SV=1
+negative,A0A179FHC9,A0A179FHC9_METCM Probable beta-glucosidase F OS=Pochonia chlamydosporia 170 OX=1380566 GN=VFPPC_06126 PE=3 SV=1
+positive,A0A2K1PF93,A0A2K1PF93_9BACT Beta-glucosidase OS=Petrotoga miotherma DSM 10691 OX=1434326 GN=X928_02825 PE=3 SV=1
+negative,A0A2S9AG55,A0A2S9AG55_9MICO Beta-glucosidase OS=Microbacterium sp. MYb62 OX=1848690 GN=CQ042_14785 PE=3 SV=1
+positive,A0A1V5IT73,A0A1V5IT73_9BACT Thermostable beta-glucosidase B OS=Bacteroidetes bacterium ADurb.BinA104 OX=1852816 GN=bglB PE=3 SV=1
+negative,A0A5D0VBD0,A0A5D0VBD0_9RHOB Beta-glucosidase OS=Rhodobacterales bacterium OX=1948890 GN=FMN50_20690 PE=3 SV=1
+positive,G2MRY3,G2MRY3_9THEO beta-glucosidase OS=Thermoanaerobacter wiegelii Rt8.B1 OX=697303 GN=Thewi_0226 PE=3 SV=1
+negative,A0A6A6SSI4,A0A6A6SSI4_9PLEO Probable beta-glucosidase I OS=Lophiostoma macrostomum CBS 122681 OX=1314788 GN=K491DRAFT_609748 PE=3 SV=1
+positive,A0A7U9SPZ5,A0A7U9SPZ5_9FIRM Thermostable beta-glucosidase B OS=Lachnospiraceae bacterium OX=1898203 GN=bglB_2 PE=3 SV=1
+negative,A0A9P7NTP7,A0A9P7NTP7_9HYPO Probable alpha/beta-glucosidase agdC OS=Claviceps sp. Clav32 group G5 OX=2559230 GN=E4U19_005948 PE=3 SV=1
+positive,A0A397HK41,A0A397HK41_ASPTH beta-glucosidase OS=Aspergillus thermomutatus OX=41047 GN=CDV56_108291 PE=3 SV=1
+negative,A0A498KCE1,A0A498KCE1_MALDO beta-glucosidase OS=Malus domestica OX=3750 GN=DVH24_006284 PE=4 SV=1
+positive,A0A6N2YDV3,A0A6N2YDV3_MEDGN Thermostable beta-glucosidase B OS=Mediterraneibacter gnavus OX=33038 GN=bglB_1 PE=3 SV=1
+negative,A0A1G4AMS7,A0A1G4AMS7_9PEZI beta-glucosidase OS=Colletotrichum orchidophilum OX=1209926 GN=CORC01_14321 PE=3 SV=1
+positive,B0KDF9,B0KDF9_THEP3 beta-glucosidase OS=Thermoanaerobacter pseudethanolicus (strain ATCC 33223 / 39E) OX=340099 GN=Teth39_2054 PE=3 SV=1
+negative,A0A6A4LL00,A0A6A4LL00_9ERIC beta-glucosidase (Fragment) OS=Rhododendron williamsianum OX=262921 GN=C3L33_12076 PE=4 SV=1
+positive,A0A7Z7IHX7,A0A7Z7IHX7_9MYCO Thermostable beta-glucosidase B OS=Mycobacterium simulans OX=627089 GN=bglB PE=3 SV=1
+negative,A0A1Y2WJV3,A0A1Y2WJV3_9PEZI Glycoside hydrolase family 31 protein OS=Daldinia sp. EC12 OX=1001832 GN=K445DRAFT_71258 PE=3 SV=1
+positive,A0A173XZW1,A0A173XZW1_9FIRM Thermostable beta-glucosidase B OS=Blautia obeum OX=40520 GN=bglB_1 PE=3 SV=1
+negative,A0A0M3UGE2,A0A0M3UGE2_9MICC Beta-glucosidase OS=Arthrobacter alpinus OX=656366 GN=AOC05_10250 PE=3 SV=1
+positive,A0A1C5UP45,A0A1C5UP45_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_5 PE=3 SV=1
+negative,A0A542N4R9,A0A542N4R9_9MICO Beta-glucosidase OS=Microbacterium sp. SLBN-154 OX=2768458 GN=FBY40_3112 PE=3 SV=1
+positive,A0A0P0GNU4,A0A0P0GNU4_9BACE Thermostable beta-glucosidase B OS=Bacteroides cellulosilyticus OX=246787 GN=bglB_1 PE=3 SV=1
+negative,A0A317K9S6,A0A317K9S6_9ACTN beta-glucosidase OS=Micromonospora globispora OX=1450148 GN=DKL51_31225 PE=4 SV=1
+positive,A0A399H292,A0A399H292_9ACTN Thermostable beta-glucosidase B OS=Streptomyces sp. YIM 130001 OX=2259644 GN=bglB2 PE=3 SV=1
+negative,A0A427TRI7,A0A427TRI7_9BACI beta-glucosidase OS=Mesobacillus subterraneus OX=285983 GN=EJA10_10650 PE=3 SV=1
+positive,A0A1C5Y888,A0A1C5Y888_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_3 PE=3 SV=1
+negative,A0A2U3H6N8,A0A2U3H6N8_9ACTN Beta-glucosidase OS=Streptomyces sp. NWU49 OX=2201153 GN=DKG34_13300 PE=3 SV=1
+positive,A0A143HRB0,A0A143HRB0_9GAMM beta-glucosidase OS=Microbulbifer thermotolerans OX=252514 GN=A3224_13770 PE=4 SV=1
+negative,A0A5M8P1F2,A0A5M8P1F2_9BACT beta-glucosidase OS=Candidatus Ordinivivax streblomastigis OX=2540710 GN=EZS26_001578 PE=4 SV=1
+positive,A0A1Y6K5Q7,A0A1Y6K5Q7_9CHLR Thermostable beta-glucosidase B OS=Brevefilum fermentans OX=1986204 GN=bglB PE=3 SV=1
+negative,A0A2S7W8Z2,A0A2S7W8Z2_9FLAO beta-glucosidase OS=Polaribacter gangjinensis OX=574710 GN=BTO13_01825 PE=4 SV=1
+positive,A0A7S7M8Z3,A0A7S7M8Z3_9ACTN beta-glucosidase OS=Thermophilibacter immobilis OX=2779519 GN=INP52_01630 PE=4 SV=1
+negative,A0A351X304,A0A351X304_9CHLR beta-glucosidase OS=Anaerolineaceae bacterium OX=2024896 GN=DCZ08_04725 PE=3 SV=1
+positive,U5MQR5,U5MQR5_CLOSA Thermostable beta-glucosidase B OS=Clostridium saccharobutylicum DSM 13864 OX=1345695 GN=bglB PE=3 SV=1
+negative,A0A1V2KYN0,A0A1V2KYN0_9ACTN Beta-glucosidase OS=Frankia sp. CcI49 OX=1745382 GN=CcI49_00410 PE=3 SV=1
+positive,A0AA97LZZ8,A0AA97LZZ8_9ACTN beta-glucosidase OS=Thermobifida halotolerans OX=483545 GN=NI17_008515 PE=3 SV=1
+negative,A0A5K1K514,A0A5K1K514_9APHY Beta-glucosidase (EC) (Fragment) OS=Ganoderma boninense OX=34458 GN=Q00903 PE=4 SV=1
+positive,A0A1C6H4K0,A0A1C6H4K0_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_1 PE=3 SV=1
+negative,A0A7C7GKL0,A0A7C7GKL0_UNCNB beta-glucosidase OS=Neomarinimicrobiota bacterium OX=2026760 GN=EYN76_05745 PE=4 SV=1
+positive,A0A174AA99,A0A174AA99_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_1 PE=3 SV=1
+negative,A0A146GCV4,A0A146GCV4_TERSA Beta-glucosidase OS=Terrimicrobium sacchariphilum OX=690879 GN=TSACC_363 PE=3 SV=1
+positive,A0A1C5SKJ5,A0A1C5SKJ5_9BACE Thermostable beta-glucosidase B OS=uncultured Bacteroides sp OX=162156 GN=bglB_3 PE=3 SV=1
+negative,H9V265,H9V265_PINTA beta-glucosidase (Fragment) OS=Pinus taeda OX=3352 GN=CL4445Contig1_01 PE=4 SV=1
+positive,A0A1E3AT47,A0A1E3AT47_9FIRM Thermostable beta-glucosidase B OS=Eisenbergiella tayi OX=1432052 GN=bglB_3 PE=3 SV=1
+negative,A0A412JNS6,A0A412JNS6_BACUN beta-glucosidase OS=Bacteroides uniformis OX=820 GN=DWX87_12705 PE=4 SV=1
+positive,A0A173RWX3,A0A173RWX3_9FIRM Thermostable beta-glucosidase B OS=Roseburia intestinalis OX=166486 GN=bglB_2 PE=3 SV=1
+negative,A0A9X7JN00,A0A9X7JN00_9ACTN Beta-glucosidase OS=Streptosporangium nondiastaticum OX=35764 GN=B7P34_22275 PE=3 SV=1
+positive,A0A5B7ZNK7,A0A5B7ZNK7_9GAMM Beta-glucosidase OS=Thermomonas aquatica OX=2202149 GN=FHQ07_01520 PE=3 SV=1
+negative,A0A3D8RPI4,A0A3D8RPI4_9HELO beta-glucosidase OS=Coleophoma crateriformis OX=565419 GN=BP5796_06689 PE=3 SV=1
+positive,A0A0F0L6J8,A0A0F0L6J8_9MICO Thermostable beta-glucosidase B OS=Microbacterium oxydans OX=82380 GN=bglB_4 PE=3 SV=1
+negative,A0A6N8F3H7,A0A6N8F3H7_PAEMA beta-glucosidase OS=Paenibacillus macerans OX=44252 GN=bglX PE=3 SV=1
+positive,A0A1V4IY77,A0A1V4IY77_9CLOT Thermostable beta-glucosidase B OS=Clostridium oryzae OX=1450648 GN=bglB_3 PE=3 SV=1
+negative,A0A834U280,A0A834U280_9FABA beta-glucosidase OS=Senna tora OX=362788 GN=G2W53_013934 PE=4 SV=1
+positive,M8CQD9,M8CQD9_THETY beta-glucosidase OS=Thermoanaerobacter thermohydrosulfuricus WC1 OX=1198630 GN=TthWC1_1005 PE=3 SV=1
+negative,A0A090SC80,A0A090SC80_9VIBR beta-glucosidase OS=Vibrio maritimus OX=990268 GN=JCM19235_5701 PE=4 SV=1
+positive,A0A4D4JB28,A0A4D4JB28_9PSEU Beta-glucosidase OS=Gandjariella thermophila OX=1931992 GN=bglB_1 PE=3 SV=1
+negative,A0A4Q5QLM0,A0A4Q5QLM0_9BACT beta-glucosidase (Fragment) OS=Cytophagaceae bacterium OX=2026729 GN=EOO36_23290 PE=3 SV=1
+positive,A0A2K2F9N4,A0A2K2F9N4_9CLOT beta-glucosidase OS=Clostridium thermosuccinogenes OX=84032 GN=CDQ84_15145 PE=4 SV=1
+negative,A0A9E6A141,A0A9E6A141_9PROT beta-glucosidase OS=Henriciella sp OX=1968823 GN=HRT82_10235 PE=4 SV=1
+positive,A0A1C5T4S4,A0A1C5T4S4_9FIRM Thermostable beta-glucosidase B OS=uncultured Coprococcus sp OX=458253 GN=bglB_1 PE=3 SV=1
+negative,A0A9P7KWC3,A0A9P7KWC3_9HYPO beta-glucosidase OS=Fusarium xylarioides OX=221167 GN=H9Q72_012202 PE=3 SV=1
+positive,A0A087E2J5,A0A087E2J5_9BIFI Beta-glucosidase OS=Bifidobacterium thermacidophilum subsp. thermacidophilum OX=79262 GN=THER5_0169 PE=3 SV=1
+negative,A0A4Q4YP26,A0A4Q4YP26_9PEZI beta-glucosidase OS=Monosporascus sp. 5C6A OX=2211642 GN=DL771_001722 PE=3 SV=1
+positive,Q0W8Q1,Q0W8Q1_METAR Thermostable beta-glucosidase (Glycoside hydrolase family 3) OS=Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50) OX=351160 GN=bglX PE=3 SV=1
+negative,A0AAP5H8X1,A0AAP5H8X1_PAEAM Beta-glucosidase OS=Paenibacillus amylolyticus OX=1451 GN=J2W91_004534 PE=4 SV=1
+positive,A0A660REY0,A0A660REY0_9THEM Beta-glucosidase OS=Thermotoga sp OX=28240 GN=DRP30_04205 PE=3 SV=1
+negative,A0AA40C213,A0AA40C213_9PEZI Probable beta-glucosidase I OS=Lasiodiplodia hormozganensis OX=869390 GN=bglI_0 PE=3 SV=1
+positive,T4VHL0,T4VHL0_PARBF Thermostable beta-glucosidase B OS=Paraclostridium bifermentans ATCC 638 = DSM 14991 OX=1233171 GN=bglB PE=3 SV=1
+negative,A0A3M7I9U7,A0A3M7I9U7_HORWE beta-glucosidase OS=Hortaea werneckii OX=91943 GN=D0859_13734 PE=3 SV=1
+positive,A0A645GQN9,A0A645GQN9_9ZZZZ Thermostable beta-glucosidase B OS=bioreactor metagenome OX=1076179 GN=bglB_16 PE=3 SV=1
+negative,A0A3T1TL36,A0A3T1TL36_LISMN beta-glucosidase OS=Listeria monocytogenes OX=1639 GN=GYP27_12575 PE=3 SV=1
+positive,A0A7C5RT14,A0A7C5RT14_THERO beta-glucosidase OS=Thermomicrobium roseum OX=500 GN=ENM21_01225 PE=3 SV=1
+negative,A0A9W9R1F3,A0A9W9R1F3_PENBR beta-glucosidase OS=Penicillium brevicompactum OX=5074 GN=N7452_000951 PE=3 SV=1
+positive,A0A9X1KTP1,A0A9X1KTP1_9BACT beta-glucosidase OS=Rhodothermaceae bacterium OX=2026787 GN=LC662_11020 PE=4 SV=1
+negative,A0A2E4M0I0,A0A2E4M0I0_9PROT Beta-glucosidase OS=Thalassospira sp OX=1912094 GN=CMO07_12560 PE=3 SV=1
+positive,A0A3S4AM06,A0A3S4AM06_9PEZI beta-glucosidase OS=Thermothielavioides terrestris OX=2587410 GN=TT172_LOCUS3468 PE=3 SV=1
+negative,A0A7X3S615,A0A7X3S615_9HYPH beta-glucosidase OS=Stappia sediminis OX=2692190 GN=GR183_01750 PE=4 SV=1
+positive,A0A2M8P0S1,A0A2M8P0S1_9CHLR beta-glucosidase OS=Candidatus Thermofonsia Clade 1 bacterium OX=2364210 GN=CUN51_04565 PE=4 SV=1
+negative,A0A5D0Q163,A0A5D0Q163_9ACTN beta-glucosidase OS=Nonomuraea sp. PA05 OX=2604466 GN=FXF51_27900 PE=3 SV=1
+positive,A0A2M9NCM5,A0A2M9NCM5_9BACL Thermostable beta-glucosidase B OS=Paenibacillus sp. GM1FR OX=2059267 GN=bglB_3 PE=3 SV=1
+negative,A0A8H7FDU1,A0A8H7FDU1_9AGAM beta-glucosidase OS=Athelia sp. TMB OX=2748771 GN=HWV62_4193 PE=3 SV=1
+positive,A0A1I2D054,A0A1I2D054_9BACT beta-glucosidase OS=Thermophagus xiamenensis OX=385682 GN=SAMN05444380_11767 PE=4 SV=1
+negative,A0A0B7K2D4,A0A0B7K2D4_BIOOC beta-glucosidase (Fragment) OS=Bionectria ochroleuca OX=29856 GN=BN869_000007397_1 PE=3 SV=1
+positive,I4EW72,I4EW72_9ACTN Thermostable beta-glucosidase B OS=Modestobacter marinus OX=477641 GN=bglB PE=3 SV=1
+negative,A0A7K0FIF4,A0A7K0FIF4_9FLAO beta-glucosidase OS=Flavobacterium sp. LC2016-23 OX=2666330 GN=bglX PE=3 SV=1
+positive,A0A422LQH9,A0A422LQH9_LACPA Thermostable beta-glucosidase B OS=Lacticaseibacillus paracasei OX=1597 GN=FAM6012_02135 PE=3 SV=1
+negative,A0AAP5E9V9,A0AAP5E9V9_9GAMM Beta-glucosidase OS=Stenotrophomonas rhizophila OX=216778 GN=QE424_001746 PE=4 SV=1
+positive,A0A174GFU8,A0A174GFU8_9FIRM Thermostable beta-glucosidase B OS=Blautia obeum OX=40520 GN=bglB_1 PE=3 SV=1
+negative,A0A7V8LGP1,A0A7V8LGP1_9BIFI Beta-glucosidase OS=Bifidobacterium animalis subsp. animalis MCC 0499 OX=1365956 GN=BAAM0499_07125 PE=3 SV=1
+positive,A0A916C5A0,A0A916C5A0_9CHLR Beta-glucosidase OS=Thermoflexales bacterium OX=2497639 GN=bglX PE=4 SV=1
+negative,A0AAJ5UGB1,A0AAJ5UGB1_9ENTR Beta-glucosidase OS=Klebsiella electrica OX=1259973 GN=OR613_11705 PE=3 SV=1
+positive,P0C946,BGLA_THENE 1-4-beta-D-glucan glucohydrolase (Fragment) OS=Thermotoga neapolitana OX=2337 GN=bglA PE=3 SV=1
+negative,A0A7Y7CDZ1,A0A7Y7CDZ1_9BACT Glycoside hydrolase family 1 protein OS=Myxococcus sp. AM011 OX=2745200 GN=HUW62_33795 PE=3 SV=1
+positive,K7R8A6,K7R8A6_THEOS Beta-glucosidase OS=Thermus oshimai JL-2 OX=751945 GN=Theos_2285 PE=3 SV=1
+negative,A0A8H5X7A9,A0A8H5X7A9_9HYPO beta-glucosidase OS=Fusarium denticulatum OX=48507 GN=FDENT_7136 PE=3 SV=1
+positive,A0A1L7RQC9,A0A1L7RQC9_9ACTO Thermostable beta-glucosidase B OS=Actinomyces succiniciruminis OX=1522002 GN=AAM4_2060 PE=3 SV=1
+negative,A0A4Q8S2N7,A0A4Q8S2N7_SALHA beta-glucosidase OS=Salmonella hadar OX=149385 GN=bglX PE=3 SV=1
+positive,A0A7C1FQ22,A0A7C1FQ22_THERO beta-glucosidase OS=Thermomicrobium roseum OX=500 GN=ENP47_02975 PE=3 SV=1
+negative,A0A9P4MV52,A0A9P4MV52_9PLEO beta-glucosidase OS=Delitschia confertaspora ATCC 74209 OX=1513339 GN=GQ43DRAFT_241587 PE=3 SV=1
+positive,A0A840P6X6,A0A840P6X6_9ACTN beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_003389 PE=3 SV=1
+negative,A0A8T0XXF9,A0A8T0XXF9_9STRA beta-glucosidase OS=Phytophthora cactorum OX=29920 GN=JG687_00016150 PE=4 SV=1
+positive,A0A3B1BUE6,A0A3B1BUE6_9ZZZZ Beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MNBD_IGNAVI01-781 PE=3 SV=1
+negative,A0A7G9FCX4,A0A7G9FCX4_9SPIR Beta-glucosidase OS=Treponema sp. Marseille-Q4132 OX=2766701 GN=H9I35_08090 PE=3 SV=1
+positive,A0A930ZKV6,A0A930ZKV6_9DEIN Beta-glucosidase OS=Thermaceae bacterium OX=2614257 GN=IVW51_13490 PE=3 SV=1
+negative,C5XLK0,C5XLK0_SORBI beta-glucosidase OS=Sorghum bicolor OX=4558 GN=SORBI_3003G311600 PE=4 SV=1
+positive,A0A381FF18,A0A381FF18_9FLAO Thermostable beta-glucosidase B OS=Chryseobacterium indoltheticum OX=254 GN=bglB_2 PE=3 SV=1
+negative,A0A174VV74,A0A174VV74_9BACE beta-glucosidase OS=Bacteroides caccae OX=47678 GN=bglX_3 PE=3 SV=1
+positive,A0A430S1L1,A0A430S1L1_THESC Beta-glucosidase OS=Thermus scotoductus OX=37636 GN=CSW38_03280 PE=3 SV=1
+negative,A0A3C1TNS0,A0A3C1TNS0_9BACT beta-glucosidase OS=Candidatus Magasanikbacteria bacterium OX=2026717 GN=DCQ85_03980 PE=3 SV=1
+positive,A0A173RXK5,A0A173RXK5_9FIRM Thermostable beta-glucosidase B OS=Roseburia intestinalis OX=166486 GN=bglB_1 PE=3 SV=1
+negative,A0A0U5GRR2,A0A0U5GRR2_ASPCI Probable beta-glucosidase G OS=Aspergillus calidoustus OX=454130 GN=ASPCAL02970 PE=3 SV=1
+positive,A0A160TI30,A0A160TI30_9ZZZZ Beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MGWOODY_Smn575 PE=4 SV=1
+negative,A0A845A770,A0A845A770_9SPHN beta-glucosidase OS=Altericroceibacterium indicum OX=374177 GN=GRI39_05640 PE=3 SV=1
+positive,A0A2N3QMR4,A0A2N3QMR4_9BIFI beta-glucosidase OS=Bifidobacterium thermophilum OX=33905 GN=CQR47_0455 PE=4 SV=1
+negative,A0A2I4HNV7,A0A2I4HNV7_JUGRE beta-glucosidase OS=Juglans regia OX=51240 GN=LOC109019909 PE=4 SV=2
+positive,A0A160TYV8,A0A160TYV8_9ZZZZ Beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MGWOODY_Hyp1347 PE=4 SV=1
+negative,A0A7K2JBE9,A0A7K2JBE9_9ACTN Beta-glucosidase OS=Streptomyces sp. SID4944 OX=2690284 GN=GTX14_29845 PE=3 SV=1
+positive,A0A1V6EF83,A0A1V6EF83_9FIRM Thermostable beta-glucosidase B OS=Firmicutes bacterium ADurb.Bin099 OX=1852881 GN=bglB PE=3 SV=1
+negative,A0A0U1M0X8,A0A0U1M0X8_TALIS beta-glucosidase OS=Talaromyces islandicus OX=28573 GN=PISL3812_05704 PE=3 SV=1
+positive,A0A1C6BXN7,A0A1C6BXN7_9FIRM Thermostable beta-glucosidase B OS=uncultured Flavonifractor sp OX=1193534 GN=bglB_5 PE=3 SV=1
+negative,A0A6L8EB77,A0A6L8EB77_9GAMM beta-glucosidase OS=Gammaproteobacteria bacterium OX=1913989 GN=F4127_01130 PE=4 SV=1
+positive,A0A485A2B1,A0A485A2B1_KLUCR Thermostable beta-glucosidase B OS=Kluyvera cryocrescens OX=580 GN=bglB_3 PE=3 SV=1
+negative,A0A7T3QX35,A0A7T3QX35_9ZZZZ beta-glucosidase OS=uncultured microorganism OX=358574 PE=4 SV=1
+positive,A0A0P6XSE8,A0A0P6XSE8_9CHLR Beta-glucosidase OS=Thermanaerothrix daxensis OX=869279 GN=SE15_07780 PE=3 SV=1
+negative,A0A5B9EKX4,A0A5B9EKX4_9BACT beta-glucosidase OS=Terriglobus albidus OX=1592106 GN=FTW19_23700 PE=3 SV=1
+positive,A0A840P8I5,A0A840P8I5_9ACTN Beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_004660 PE=3 SV=1
+negative,A0A5C5R1W4,A0A5C5R1W4_9PSED beta-glucosidase OS=Pseudomonas mandelii OX=75612 GN=bglX PE=4 SV=1
+positive,A0A1E3AJP8,A0A1E3AJP8_9FIRM Thermostable beta-glucosidase B OS=Eisenbergiella tayi OX=1432052 GN=bglB_2 PE=3 SV=1
+negative,A0A9X6BFT4,A0A9X6BFT4_XANCI beta-glucosidase OS=Xanthomonas citri pv. durantae OX=487862 GN=Xdur_020720 PE=3 SV=1
+positive,A0A1C5RIN6,A0A1C5RIN6_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_1 PE=3 SV=1
+negative,A0A423X2U3,A0A423X2U3_9PEZI beta-glucosidase OS=Cytospora leucostoma OX=1230097 GN=VPNG_06520 PE=3 SV=1
+positive,D1A786,D1A786_THECD Beta-glucosidase OS=Thermomonospora curvata (strain ATCC 19995 / DSM 43183 / JCM 3096 / KCTC 9072 / NBRC 15933 / NCIMB 10081 / Henssen B9) OX=471852 GN=Tcur_4773 PE=3 SV=1
+negative,A0AAC9XJR9,A0AAC9XJR9_9SPIR beta-glucosidase OS=Brachyspira hampsonii OX=1287055 GN=BHAMNSH16_02155 PE=3 SV=1
+positive,A0A1S1HBT4,A0A1S1HBT4_9SPHN Thermostable beta-glucosidase B OS=Sphingomonas haloaromaticamans OX=653954 GN=bglB PE=3 SV=1
+negative,A0A1B8GAW9,A0A1B8GAW9_9PEZI Probable beta-glucosidase G OS=Pseudogymnoascus verrucosus OX=342668 GN=VE01_08562 PE=3 SV=2
+positive,A0A653RFR9,A0A653RFR9_9MICC Thermostable beta-glucosidase B OS=Arthrobacter sp. 9V OX=2653132 GN=bglB PE=3 SV=1
+negative,A0A349K013,A0A349K013_9BACT beta-glucosidase (Fragment) OS=Verrucomicrobiales bacterium OX=2026801 GN=DCS85_04390 PE=4 SV=1
+positive,A0A3E0QWF7,A0A3E0QWF7_9BACL Beta-glucosidase OS=Thermobacillus sp OX=2108467 GN=C6W55_08400 PE=3 SV=1
+negative,A0A520C4B2,A0A520C4B2_9BURK beta-glucosidase (Fragment) OS=Rubrivivax sp OX=50259 GN=EOP35_01870 PE=4 SV=1
+positive,A0A5J4KDT8,A0A5J4KDT8_9CHLR Beta-glucosidase OS=Thermogemmatispora aurantia OX=2045279 GN=KTAU_37680 PE=3 SV=1
+negative,U9VW20,U9VW20_9CYAN beta-glucosidase OS=Leptolyngbya sp. Heron Island J OX=1385935 GN=N836_14500 PE=4 SV=1
+positive,A0A174HAL2,A0A174HAL2_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_1 PE=3 SV=1
+negative,A0A7K2SBA5,A0A7K2SBA5_9ACTN Beta-glucosidase OS=Streptomyces sp. SID8364 OX=2690347 GN=GTY69_18255 PE=3 SV=1
+positive,A0A940I3T2,A0A940I3T2_9BACT Glycoside hydrolase family 1 protein OS=Thermosipho sp. OX=1968895 GN=H0Z22_08605 PE=3 SV=1
+negative,A0A135V3S4,A0A135V3S4_9PEZI beta-glucosidase OS=Colletotrichum salicis OX=1209931 GN=CSAL01_11471 PE=3 SV=1
+positive,A0A174KTC9,A0A174KTC9_9FIRM Thermostable beta-glucosidase B OS=Blautia wexlerae OX=418240 GN=bglB_4 PE=3 SV=1
+negative,A0A326GJ08,A0A326GJ08_9SPHN beta-glucosidase OS=Citromicrobium sp OX=2024827 GN=DI637_01580 PE=3 SV=1
+positive,A0A2H5Y7T5,A0A2H5Y7T5_9CHLR Beta-glucosidase A OS=Candidatus Thermoflexus japonica OX=2035417 GN=bglA PE=3 SV=1
+negative,A0A7V7KTB3,A0A7V7KTB3_ENTFC beta-glucosidase OS=Enterococcus faecium OX=1352 GN=DTX73_14185 PE=3 SV=1
+positive,A0A0S1XBC4,A0A0S1XBC4_THEBA Beta-glucosidase OS=Thermococcus barophilus OX=55802 GN=TBCH5v1_1155 PE=3 SV=1
+negative,A0A4R2M127,A0A4R2M127_9BACE beta-glucosidase OS=Bacteroides heparinolyticus OX=28113 GN=EV202_1402 PE=3 SV=1
+positive,A0A3A4AWC6,A0A3A4AWC6_9ACTN Beta-glucosidase OS=Bailinhaonella thermotolerans OX=1070861 GN=D5H75_18195 PE=3 SV=1
+negative,A0A4R0GA06,A0A4R0GA06_9ACTN Beta-glucosidase OS=Micromonospora zingiberis OX=2053011 GN=E0H26_24695 PE=3 SV=1
+positive,A0A1V5Q4R4,A0A1V5Q4R4_9BACT Thermostable beta-glucosidase B OS=Verrucomicrobia bacterium ADurb.Bin345 OX=1852930 GN=bglB PE=3 SV=1
+negative,A0A6N7EJF3,A0A6N7EJF3_9MICO beta-glucosidase OS=Georgenia subflava OX=1622177 GN=GB881_04550 PE=4 SV=1
+positive,A0A0D0Q9A4,A0A0D0Q9A4_9BACI Beta-glucosidase OS=Anoxybacillus thermarum OX=404937 GN=LH47_01297 PE=3 SV=1
+negative,A0A1E5PFU5,A0A1E5PFU5_9ACTN Beta-glucosidase OS=Streptomyces agglomeratus OX=285458 GN=AS594_31920 PE=3 SV=1
+positive,A0A644X6G9,A0A644X6G9_9ZZZZ Thermostable beta-glucosidase B OS=bioreactor metagenome OX=1076179 GN=bglB_4 PE=3 SV=1
+negative,A0A1S4CR57,A0A1S4CR57_TOBAC beta-glucosidase OS=Nicotiana tabacum OX=4097 GN=LOC107821815 PE=4 SV=1
+positive,A0AAQ1UJW1,A0AAQ1UJW1_9BACT Thermostable beta-glucosidase B OS=Segatella buccae OX=28126 GN=bglB_2 PE=4 SV=1
+negative,A0AAJ0A2V3,A0AAJ0A2V3_9PEZI beta-glucosidase OS=Colletotrichum phormii OX=359342 GN=BDP81DRAFT_340487 PE=3 SV=1
+positive,A0A485A5E4,A0A485A5E4_KLUCR Thermostable beta-glucosidase B OS=Kluyvera cryocrescens OX=580 GN=bglB_1 PE=3 SV=1
+negative,A0A8H4PU17,A0A8H4PU17_9HYPO beta-glucosidase OS=Ophiocordyceps sinensis OX=72228 GN=G6O67_002355 PE=3 SV=1
+positive,D1CB40,D1CB40_THET1 beta-glucosidase OS=Thermobaculum terrenum (strain ATCC BAA-798 / CCMEE 7001 / YNP1) OX=525904 GN=Tter_1089 PE=4 SV=1
+negative,A0A7Y7LNL7,A0A7Y7LNL7_9BURK beta-glucosidase OS=Duganella sp. SG902 OX=2587016 GN=FHW83_003352 PE=4 SV=1
+positive,G2Q6C2,G2Q6C2_THET4 beta-glucosidase OS=Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799) OX=573729 GN=MYCTH_62925 PE=3 SV=1
+negative,S8AF58,S8AF58_DACHA beta-glucosidase OS=Dactylellina haptotyla (strain CBS 200.50) OX=1284197 GN=H072_4407 PE=3 SV=1
+positive,A0A1C6C1N0,A0A1C6C1N0_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_8 PE=3 SV=1
+negative,A0A436ZRS7,A0A436ZRS7_9PEZI beta-glucosidase OS=Arthrobotrys flagrans OX=97331 GN=DFL_009433 PE=3 SV=1
+positive,A0A1C6K8F4,A0A1C6K8F4_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_7 PE=3 SV=1
+negative,A0A9D5H7N6,A0A9D5H7N6_9LILI beta-glucosidase OS=Dioscorea zingiberensis OX=325984 GN=J5N97_027499 PE=4 SV=1
+positive,A0A4U9VUW9,A0A4U9VUW9_SERFO Thermostable beta-glucosidase B OS=Serratia fonticola OX=47917 GN=bglB_1 PE=3 SV=1
+negative,A0A7Y3GBL1,A0A7Y3GBL1_UNCMY Family 1 glycosylhydrolase (Fragment) OS=Myxococcales bacterium OX=2026763 GN=HKP30_15280 PE=3 SV=1
+positive,A0A231GZU3,A0A231GZU3_9NOCA Thermostable beta-glucosidase B OS=Nocardia cerradoensis OX=85688 GN=bglB_1 PE=3 SV=1
+negative,A0A7Y9PIW0,A0A7Y9PIW0_9BACT Beta-glucosidase OS=Granulicella arctica OX=940613 GN=HDF17_002228 PE=4 SV=1
+positive,A0A174FIL0,A0A174FIL0_9FIRM Thermostable beta-glucosidase B OS=Blautia wexlerae OX=418240 GN=bglB_5 PE=3 SV=1
+negative,A0A3D4X2A6,A0A3D4X2A6_9ACTN Beta-glucosidase OS=Micromonosporaceae bacterium OX=1873464 GN=DGT23_33175 PE=3 SV=1
+positive,A0A446BBM6,A0A446BBM6_9PEZI beta-glucosidase OS=Thermothielavioides terrestris OX=2587410 GN=TT172_LOCUS2335 PE=3 SV=1
+negative,A0A1D6NAD6,A0A1D6NAD6_MAIZE beta-glucosidase OS=Zea mays OX=4577 GN=ZEAMMB73_Zm00001d043309 PE=4 SV=1
+positive,A0A6C0Q197,A0A6C0Q197_9ACTN Thermostable beta-glucosidase B OS=Streptomyces sp. S4.7 OX=2705439 GN=bglB1 PE=3 SV=1
+negative,A0A847R3X2,A0A847R3X2_9GAMM Beta-glucosidase OS=Marinomonas profundi OX=2726122 GN=HGG82_13605 PE=3 SV=1
+positive,A0A173ZQ61,A0A173ZQ61_9FIRM Thermostable beta-glucosidase B OS=Roseburia inulinivorans OX=360807 GN=bglB_2 PE=3 SV=1
+negative,A0A5B0D2S3,A0A5B0D2S3_9MICO beta-glucosidase OS=Microbacterium sp. ANT_H45B OX=2597346 GN=FQ142_15380 PE=4 SV=1
+positive,A0A564TGP3,A0A564TGP3_9FIRM Thermostable beta-glucosidase B OS=[Ruminococcus] torques OX=33039 GN=bglB_5 PE=3 SV=1
+negative,B6H0M5,B6H0M5_PENRW Probable beta-glucosidase btgE OS=Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) OX=500485 GN=Pc12g03160 PE=4 SV=1
+positive,A0A840NZA6,A0A840NZA6_9ACTN Beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_002198 PE=3 SV=1
+negative,A0A7N2LH24,A0A7N2LH24_QUELO beta-glucosidase OS=Quercus lobata OX=97700 PE=4 SV=1
+positive,A0A0D0EM19,A0A0D0EM19_9BACI Beta-glucosidase OS=Caldibacillus thermoamylovorans OX=35841 GN=B4064_1032 PE=3 SV=1
+negative,A0A1J5HEG2,A0A1J5HEG2_9BACT beta-glucosidase OS=Parcubacteria group bacterium CG2_30_44_11 OX=1805317 GN=AUK16_01785 PE=3 SV=1
+positive,A0A2G5RM41,A0A2G5RM41_9BACI Beta-glucosidase OS=Anoxybacillus flavithermus OX=33934 GN=CS060_13520 PE=3 SV=1
+negative,F6EZ11,F6EZ11_SPHCR beta-glucosidase OS=Sphingobium chlorophenolicum L-1 OX=690566 GN=Sphch_1564 PE=3 SV=1
+positive,A0A2A5XVI9,A0A2A5XVI9_9BACT beta-glucosidase OS=Rhodothermaeota bacterium MED-G12 OX=1986237 GN=CNE38_05650 PE=4 SV=1
+negative,A0A0F7RZB8,A0A0F7RZB8_9BASI beta-glucosidase OS=Sporisorium scitamineum OX=49012 GN=SSCI33040.1 PE=3 SV=1
+positive,A0A7K0DYZ8,A0A7K0DYZ8_9NOCA Thermostable beta-glucosidase B OS=Nocardia aurantia OX=2585199 GN=bglB_2 PE=3 SV=1
+negative,A0A506U527,A0A506U527_9HYPH beta-glucosidase OS=Martelella alba OX=2590451 GN=FJU08_17335 PE=3 SV=1
+positive,A0A174SUL1,A0A174SUL1_9FIRM Thermostable beta-glucosidase B OS=Blautia wexlerae OX=418240 GN=bglB_7 PE=3 SV=1
+negative,A0A9P6HSX0,A0A9P6HSX0_9PEZI beta-glucosidase OS=Colletotrichum karsti OX=1095194 GN=CkaCkLH20_12552 PE=3 SV=1
+positive,A0A6N3FRU3,A0A6N3FRU3_9FIRM Thermostable beta-glucosidase B OS=[Ruminococcus] torques OX=33039 GN=bglB_3 PE=3 SV=1
+negative,A0A4R0K1D3,A0A4R0K1D3_9ACTN beta-glucosidase OS=Kribbella capetownensis OX=1572659 GN=E0H75_08745 PE=3 SV=1
+positive,A0A7K0DJB1,A0A7K0DJB1_9NOCA Thermostable beta-glucosidase B OS=Nocardia aurantia OX=2585199 GN=bglB_1 PE=3 SV=1
+negative,A0A5J5IGK4,A0A5J5IGK4_9BACT beta-glucosidase OS=Ginsengibacter hankyongi OX=2607284 GN=bglX PE=3 SV=1
+positive,A0A449BFN4,A0A449BFN4_HAPAX Thermostable beta-glucosidase B OS=Haploplasma axanthum OX=29552 GN=bglB_5 PE=3 SV=1
+negative,A0A4T0T2W5,A0A4T0T2W5_9BASI Probable beta-glucosidase G OS=Wallemia mellicola OX=1708541 GN=E3Q01_01067 PE=3 SV=1
+positive,A0A1Y5RVF8,A0A1Y5RVF8_9RHOB Thermostable beta-glucosidase B OS=Aquimixticola soesokkakensis OX=1519096 GN=bglB_2 PE=3 SV=1
+negative,A0A3N4KC50,A0A3N4KC50_9PEZI beta-glucosidase OS=Morchella conica CCBAS932 OX=1392247 GN=P167DRAFT_529144 PE=3 SV=1
+positive,A0A662HR14,A0A662HR14_9CREN beta-glucosidase (Fragment) OS=Thermoprotei archaeon OX=2250277 GN=DRN04_16765 PE=3 SV=1
+negative,A0A098S657,A0A098S657_9BACT beta-glucosidase OS=Phaeodactylibacter xiamenensis OX=1524460 GN=IX84_13670 PE=4 SV=1
+positive,A0A0E4H8H8,A0A0E4H8H8_9BACL Thermostable beta-glucosidase B OS=Paenibacillus riograndensis SBR5 OX=1073571 GN=bglB PE=3 SV=1
+negative,A0A6L9J0J6,A0A6L9J0J6_UNCCH Glycoside hydrolase family 1 protein OS=Chloroflexota bacterium OX=2026724 GN=GYB65_18765 PE=3 SV=1
+positive,Q8GHE5,Q8GHE5_THECA Beta-glucosidase OS=Thermus caldophilus OX=272 PE=3 SV=1
+negative,A0A7Y5DMS0,A0A7Y5DMS0_9SPHN beta-glucosidase OS=Novosphingobium sp OX=1874826 GN=HOO94_09755 PE=4 SV=1
+positive,A0A2Z5JXT4,A0A2Z5JXT4_9ACTN Thermostable beta-glucosidase B OS=Streptomyces sp. Go-475 OX=2072505 GN=bglB1 PE=3 SV=1
+negative,A0A1I6PZJ8,A0A1I6PZJ8_9FLAO beta-glucosidase OS=Lutibacter maritimus OX=593133 GN=SAMN04488006_1354 PE=3 SV=1
+positive,A0A7W3MWR0,A0A7W3MWR0_9ACTN Beta-glucosidase OS=Thermomonospora cellulosilytica OX=1411118 GN=HNR21_002200 PE=3 SV=1
+negative,Q4WRH9,AGDC_ASPFU Probable alpha/beta-glucosidase agdC OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=agdC PE=3 SV=1
+positive,A0A3D1JDS5,A0A3D1JDS5_9CHLR beta-glucosidase OS=Anaerolinea thermolimosa OX=229919 GN=DEQ80_02600 PE=3 SV=1
+negative,W9NMJ9,W9NMJ9_FUSOX beta-glucosidase OS=Fusarium oxysporum f. sp. pisi HDV247 OX=1080344 GN=FOVG_17475 PE=3 SV=1
+positive,A0A3G8JWU9,A0A3G8JWU9_9ACTN Thermostable beta-glucosidase B OS=Gordonia insulae OX=2420509 GN=bglB PE=3 SV=1
+negative,A0A0T0M7W1,A0A0T0M7W1_9FLAO beta-glucosidase OS=Chryseobacterium sp. Leaf394 OX=1736361 GN=ASG21_07825 PE=3 SV=1
+positive,A0A564WBG0,A0A564WBG0_9FIRM Thermostable beta-glucosidase B OS=Blautia luti OX=89014 GN=bglB_2 PE=3 SV=1
+negative,A0A0B2A6F6,A0A0B2A6F6_9MICO Beta-glucosidase OS=Microbacterium mangrovi OX=1348253 GN=LK09_12760 PE=3 SV=1
+positive,A0A1V6CSF6,A0A1V6CSF6_9BACT Thermostable beta-glucosidase B OS=Bacteroidetes bacterium ADurb.Bin123 OX=1852804 GN=bglB_1 PE=4 SV=1
+negative,A0A5N6X5E2,A0A5N6X5E2_9EURO Probable beta-glucosidase M OS=Aspergillus sergii OX=1034303 GN=BDV39DRAFT_214978 PE=3 SV=1
+positive,Q9LAV5,Q9LAV5_THEFU Beta-glucosidase OS=Thermobifida fusca OX=2021 GN=bglC PE=3 SV=1
+negative,A0A2E1ZTS1,A0A2E1ZTS1_UNCNB beta-glucosidase OS=Neomarinimicrobiota bacterium OX=2026760 GN=CMG13_02165 PE=3 SV=1
+positive,A0A3S5D6W7,A0A3S5D6W7_SEROD Thermostable beta-glucosidase B OS=Serratia odorifera OX=618 GN=bglB_1 PE=3 SV=1
+negative,A0A6I1Z276,A0A6I1Z276_9ACTN Beta-glucosidase OS=Streptomyces sp. RB17 OX=2585197 GN=SRB17_02340 PE=3 SV=1
+positive,A0A347W9G6,A0A347W9G6_9PROT Thermostable beta-glucosidase B OS=Komagataeibacter saccharivorans OX=265959 GN=bglB_1 PE=3 SV=1
+negative,A0A4P5X518,A0A4P5X518_9BACT Beta-glucosidase OS=Phycisphaerae bacterium OX=2026778 GN=LBMAG48_11920 PE=3 SV=1
+positive,A0A9D8VDE5,A0A9D8VDE5_9BACT beta-glucosidase OS=Rhodothermales bacterium OX=2306054 GN=JJ976_11015 PE=4 SV=1
+negative,A0A7W2R3D4,A0A7W2R3D4_9FLAO beta-glucosidase OS=Gelidibacter maritimus OX=2761487 GN=bglX PE=4 SV=1
+positive,A0A2X1BJ26,A0A2X1BJ26_BREVE Thermostable beta-glucosidase B OS=Brevundimonas vesicularis OX=41276 GN=bglB PE=3 SV=1
+negative,A0A1H2BAC0,A0A1H2BAC0_9BRAD Beta-glucosidase OS=Bradyrhizobium canariense OX=255045 GN=SAMN05444158_6961 PE=3 SV=1
+positive,A0A840PAG5,A0A840PAG5_9ACTN Beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_005410 PE=3 SV=1
+negative,A0A5N7C373,A0A5N7C373_PETAA Probable beta-glucosidase E OS=Petromyces alliaceus OX=209559 GN=BDV23DRAFT_112025 PE=3 SV=1
+positive,A0A1C5S6F5,A0A1C5S6F5_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_10 PE=3 SV=1
+negative,A0A1H4VSJ7,A0A1H4VSJ7_9ACTN Beta-glucosidase OS=Streptomyces sp. 2314.4 OX=1881025 GN=SAMN05428943_2323 PE=3 SV=1
+positive,A0A0F0KPE2,A0A0F0KPE2_9MICO Thermostable beta-glucosidase B OS=Microbacterium foliorum OX=104336 GN=bglB_3 PE=3 SV=1
+negative,A0A4R1AKK8,A0A4R1AKK8_9ACTN Beta-glucosidase OS=Aeromicrobium sp. IC_218 OX=2545468 GN=E0W78_15490 PE=3 SV=1
+positive,A0A2M9MR44,A0A2M9MR44_9BACL Thermostable beta-glucosidase B OS=Paenibacillus sp. GM2FR OX=2059268 GN=bglB_2 PE=3 SV=1
+negative,A0A841H7D7,A0A841H7D7_9BACT beta-glucosidase OS=Longimicrobium terrae OX=1639882 GN=HNQ61_005577 PE=4 SV=1
+positive,A0A385LSX0,A0A385LSX0_RHOMR beta-glucosidase (Fragment) OS=Rhodothermus marinus OX=29549 PE=3 SV=1
+negative,A0A174KH58,A0A174KH58_BACUN beta-glucosidase OS=Bacteroides uniformis OX=820 GN=bglX_2 PE=3 SV=1
+positive,A0A411KY79,A0A411KY79_9ACTN beta-glucosidase (Fragment) OS=Thermobifida halotolerans OX=483545 PE=3 SV=1
+negative,A0A2I9CXC6,A0A2I9CXC6_9DEIO Beta-glucosidase OS=Deinococcus aerius OX=200253 GN=DAERI_100085 PE=3 SV=1
+positive,K2Q9W6,K2Q9W6_THEA7 Beta-galactosidase OS=Thermosipho africanus (strain H17ap60334) OX=1161912 GN=H17ap60334_00115 PE=3 SV=1
+negative,A0A946W703,A0A946W703_9BACT beta-glucosidase OS=Prolixibacteraceae bacterium OX=2053594 GN=HN778_18590 PE=4 SV=1
+positive,A0A840P1I0,A0A840P1I0_9ACTN Beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_000813 PE=3 SV=1
+negative,A0A937KAB7,A0A937KAB7_9RHOB Beta-glucosidase OS=Maritimibacter sp OX=2003363 GN=HOY44_19040 PE=3 SV=1
+positive,A0A1C5S610,A0A1C5S610_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_9 PE=3 SV=1
+negative,A0A4R1RAB2,A0A4R1RAB2_HYDET Beta-glucosidase OS=Hydrogenispora ethanolica OX=1082276 GN=EDC14_102425 PE=3 SV=1
+positive,A0A1C6EW03,A0A1C6EW03_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_4 PE=3 SV=1
+negative,A0A1H7UW29,A0A1H7UW29_9BURK Beta-glucosidase OS=Duganella sp. CF402 OX=1855289 GN=SAMN05216319_3344 PE=3 SV=1
+positive,A0A1V5Z2L2,A0A1V5Z2L2_9BACT Thermostable beta-glucosidase B OS=Candidatus Hydrogenedentes bacterium ADurb.Bin170 OX=1852848 GN=bglB_1 PE=3 SV=1
+negative,A0A922AFR7,A0A922AFR7_CARIL beta-glucosidase OS=Carya illinoinensis OX=32201 GN=I3842_14G064100 PE=3 SV=1
+positive,A0A1V4IW34,A0A1V4IW34_9CLOT Thermostable beta-glucosidase B OS=Clostridium oryzae OX=1450648 GN=bglB_5 PE=3 SV=1
+negative,F4BL34,F4BL34_CARS1 Aryl-phospho-beta-d-glucosidase OS=Carnobacterium sp. (strain 17-4) OX=208596 GN=bglH2 PE=3 SV=1
+positive,A0A0N0XKV8,A0A0N0XKV8_9NEIS Thermostable beta-glucosidase B OS=Amantichitinum ursilacus OX=857265 GN=bglB PE=3 SV=1
+negative,Q89UP6,Q89UP6_BRADU Beta-glucosidase OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110) OX=224911 GN=bgl PE=3 SV=1
+positive,A0A1C5TTC1,A0A1C5TTC1_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_3 PE=3 SV=1
+negative,A0AAE2MPI5,A0AAE2MPI5_RHILE beta-glucosidase OS=Rhizobium leguminosarum OX=384 GN=GGE16_005217 PE=3 SV=1
+positive,A0A0B3BP14,A0A0B3BP14_9THEO beta-glucosidase OS=Thermoanaerobacter sp. YS13 OX=1511746 GN=THYS13_16570 PE=3 SV=1
+negative,A0A3D5IA14,A0A3D5IA14_9FIRM beta-glucosidase OS=Clostridiales bacterium OX=1898207 GN=DGW67_03215 PE=4 SV=1
+positive,A0AAQ2M4D7,A0AAQ2M4D7_PARTM Beta-glucosidase BglX OS=Parageobacillus thermoglucosidasius OX=1426 GN=bglX PE=4 SV=1
+negative,Q7XAS3,Q7XAS3_GOSHI beta-glucosidase OS=Gossypium hirsutum OX=3635 PE=2 SV=1
+positive,A0A1C5R3R6,A0A1C5R3R6_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB PE=3 SV=1
+negative,Q92AS9,Q92AS9_LISIN beta-glucosidase OS=Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262) OX=272626 GN=lin1840 PE=1 SV=1
+positive,A0A3S5E2K6,A0A3S5E2K6_CHRGE Thermostable beta-glucosidase B OS=Chryseobacterium gleum OX=250 GN=bglB_1 PE=3 SV=1
+negative,A0A6L4WXG3,A0A6L4WXG3_9BIFI Beta-glucosidase OS=Bifidobacterium ramosum OX=1798158 GN=DSM100688_2019 PE=3 SV=1
+positive,A0A6N2W044,A0A6N2W044_BACUN Thermostable beta-glucosidase B OS=Bacteroides uniformis OX=820 GN=bglB_3 PE=3 SV=1
+negative,A0AAC8VB66,A0AAC8VB66_9GAMM beta-glucosidase OS=Edwardsiella sp. LADL05-105 OX=1650654 GN=AAZ33_15250 PE=4 SV=1
+positive,J9PDC5,J9PDC5_9EURO beta-glucosidase OS=Paecilomyces sp. 'thermophila' OX=566408 GN=Bgl3 PE=2 SV=1
+negative,A0A7W9HGS5,A0A7W9HGS5_9PSEU Beta-glucosidase OS=Saccharothrix ecbatanensis OX=1105145 GN=F4560_001698 PE=4 SV=1
+positive,A0A3D1JH10,A0A3D1JH10_9CHLR Beta-glucosidase OS=Anaerolinea thermolimosa OX=229919 GN=DEQ80_03510 PE=3 SV=1
+negative,A0AAP4WCD5,A0AAP4WCD5_9MICC GH1 family beta-glucosidase OS=Paenarthrobacter sp. SD-2 OX=2918451 GN=MG601_15925 PE=4 SV=1
+positive,A0A975N4D4,A0A975N4D4_9PSEU Thermostable beta-glucosidase B OS=Amycolatopsis sp. CA-230715 OX=2745196 GN=bglB PE=3 SV=1
+negative,A0A1G4MCR0,A0A1G4MCR0_LACFM beta-glucosidase OS=Lachancea fermentati OX=4955 GN=LAFE_0E05182G PE=3 SV=1
+positive,A0A2N5RI93,A0A2N5RI93_9THEM beta-glucosidase OS=Thermotoga sp. SG1 OX=126739 GN=AS006_01870 PE=3 SV=1
+negative,A0A4J1VWJ6,A0A4J1VWJ6_STREE Glycosyl hydrolase OS=Streptococcus pneumoniae OX=1313 GN=gmuD_1 PE=3 SV=1
+positive,A0A3A4ANI9,A0A3A4ANI9_9ACTN Beta-glucosidase OS=Bailinhaonella thermotolerans OX=1070861 GN=D5H75_25620 PE=3 SV=1
+negative,Q6PQF3,Q6PQF3_SECCE beta-glucosidase OS=Secale cereale OX=4550 PE=2 SV=1
+positive,A0A0F0LDI2,A0A0F0LDI2_9MICO Thermostable beta-glucosidase B OS=Microbacterium oxydans OX=82380 GN=bglB_3 PE=3 SV=1
+negative,A0A5N5QXN3,A0A5N5QXN3_9AGAM beta-glucosidase OS=Ceratobasidium theobromae OX=1582974 GN=CTheo_101 PE=3 SV=1
+positive,G0SCJ3,G0SCJ3_CHATD beta-glucosidase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0057440 PE=3 SV=1
+negative,A0A0Q6TW89,A0A0Q6TW89_9CAUL beta-glucosidase OS=Caulobacter sp. Root342 OX=1736519 GN=ASC62_05420 PE=4 SV=1
+positive,A0A916BVC2,A0A916BVC2_9CHLR Beta-glucosidase OS=Thermoflexales bacterium OX=2497639 GN=bglB PE=3 SV=1
+negative,A0A8G2A4A4,A0A8G2A4A4_RAOPL beta-glucosidase OS=Raoultella planticola OX=575 GN=bglX PE=3 SV=1
+positive,A0A1C6GRT5,A0A1C6GRT5_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_1 PE=3 SV=1
+negative,K9E9M4,K9E9M4_9BACE beta-glucosidase OS=Bacteroides oleiciplenus YIT 12058 OX=742727 GN=HMPREF9447_05101 PE=3 SV=1
+positive,A0A1H6FKP8,A0A1H6FKP8_THEAL Beta-galactosidase OS=Thermoleophilum album OX=29539 GN=SAMN02745716_0262 PE=3 SV=1
+negative,A0A344LXU1,A0A344LXU1_9FLAO Beta-glucosidase OS=Flavobacterium fluviale OX=2249356 GN=HYN86_19935 PE=3 SV=1
+positive,A0LVH1,A0LVH1_ACIC1 Beta-glucosidase OS=Acidothermus cellulolyticus (strain ATCC 43068 / DSM 8971 / 11B) OX=351607 GN=Acel_1659 PE=3 SV=1
+negative,A0A944JEQ5,A0A944JEQ5_9ACTN beta-glucosidase OS=Streptomyces sp. ISL-66 OX=2819186 GN=J7E97_03775 PE=3 SV=1
+positive,A0A3N2GRV2,A0A3N2GRV2_9PSEU Beta-glucosidase OS=Amycolatopsis thermoflava OX=84480 GN=EDD35_1660 PE=3 SV=1
+negative,A0A7K2KHB6,A0A7K2KHB6_9ACTN beta-glucosidase OS=Streptomyces sp. SID4937 OX=2690280 GN=GTW60_31700 PE=4 SV=1
+positive,A0A6N2XMG6,A0A6N2XMG6_9FIRM Thermostable beta-glucosidase B OS=Enterocloster bolteae OX=208479 GN=bglB PE=3 SV=1
+negative,A0A518RGR4,A0A518RGR4_9SPHN beta-glucosidase OS=Sphingomonas suaedae OX=2599297 GN=FPZ54_11710 PE=4 SV=1
+positive,A0A662H0U1,A0A662H0U1_9CREN beta-glucosidase (Fragment) OS=Thermoprotei archaeon OX=2250277 GN=DRJ51_06685 PE=3 SV=1
+negative,A0A9P9QQG7,A0A9P9QQG7_9PEZI Probable beta-glucosidase H OS=Leotiomycetes sp. MPI-SDFR-AT-0126 OX=2138324 GN=BKA64DRAFT_704371 PE=3 SV=1
+positive,A0A1W1WF88,A0A1W1WF88_SULTA Beta-glucosidase OS=Sulfobacillus thermosulfidooxidans (strain DSM 9293 / VKM B-1269 / AT-1) OX=929705 GN=SAMN00768000_1876 PE=3 SV=1
+negative,A0A3R9VHH2,A0A3R9VHH2_9ACTN beta-glucosidase OS=Streptomyces sp. WAC05858 OX=2487409 GN=EF902_25275 PE=4 SV=1
+positive,A0A1V6DC98,A0A1V6DC98_9CHLR Thermostable beta-glucosidase B OS=Chloroflexi bacterium ADurb.Bin120 OX=1852856 GN=bglB PE=3 SV=1
+negative,M1CMP3,M1CMP3_SOLTU beta-glucosidase OS=Solanum tuberosum OX=4113 PE=4 SV=1
+positive,A8F439,A8F439_PSELT beta-glucosidase OS=Pseudothermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / NBRC 107922 / TMO) OX=416591 GN=Tlet_0355 PE=4 SV=1
+negative,A0A5C8Q8J7,A0A5C8Q8J7_9ACTN beta-glucosidase OS=Streptomyces sp. IB2014 016-6 OX=2517818 GN=EW053_25790 PE=4 SV=1
+positive,A0A222E5U0,A0A222E5U0_9RHOB Beta-glucosidase OS=Antarctobacter heliothermus OX=74033 GN=bglA PE=3 SV=1
+negative,A0A6G1C6Z7,A0A6G1C6Z7_9ORYZ beta-glucosidase OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_018025 PE=4 SV=1
+positive,A0A2W1NEG2,A0A2W1NEG2_PAEXE beta-glucosidase OS=Paenibacillus xerothermodurans OX=1977292 GN=CBW46_000580 PE=3 SV=1
+negative,A0A8H3C9W3,A0A8H3C9W3_9AGAM beta-glucosidase OS=Rhizoctonia solani OX=456999 GN=RDB_LOCUS85491 PE=3 SV=1
+positive,A0A1C6AZD0,A0A1C6AZD0_9FIRM Thermostable beta-glucosidase B OS=uncultured Flavonifractor sp OX=1193534 GN=bglB_3 PE=3 SV=1
+negative,A0A6N2UCJ6,A0A6N2UCJ6_9BIFI Beta-glucosidase OS=Bifidobacterium dentium OX=1689 GN=BDLFYP24_00246 PE=3 SV=1
+positive,A0A4P6M009,A0A4P6M009_9FIRM Thermostable beta-glucosidase B OS=Blautia producta OX=33035 GN=bglB_2 PE=3 SV=1
+negative,A0A1X1MRA8,A0A1X1MRA8_9VIBR Beta-glucosidase OS=Vibrio sp. qd031 OX=1603038 GN=ST37_14790 PE=3 SV=1
+positive,A0A8J2FQG8,A0A8J2FQG8_9BACT beta-glucosidase OS=Candidatus Methylacidithermus pantelleriae OX=2744239 GN=bglX PE=4 SV=1
+negative,A0A4S9PAM0,A0A4S9PAM0_AURPU beta-glucosidase OS=Aureobasidium pullulans OX=5580 GN=D6C97_01580 PE=3 SV=1
+positive,A0A840PKW3,A0A840PKW3_9ACTN beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_006446 PE=3 SV=1
+negative,A0A356C161,A0A356C161_UNCFI beta-glucosidase OS=Bacillota bacterium OX=1879010 GN=DDZ66_13055 PE=4 SV=1
+positive,A0A7V4EFL9,A0A7V4EFL9_9DEIN Beta-glucosidase OS=Thermus tengchongensis OX=1214928 GN=ENT80_02545 PE=3 SV=1
+negative,A0AAD2U9U8,A0AAD2U9U8_ECOLX beta-glucosidase OS=Escherichia coli O103 OX=1055536 GN=bglX PE=3 SV=1
+positive,A0A7K0C063,A0A7K0C063_9ACTN Thermostable beta-glucosidase B OS=Actinomadura macrotermitis OX=2585200 GN=bglB_2 PE=3 SV=1
+negative,A0A1I6BJA0,A0A1I6BJA0_HYMAR beta-glucosidase OS=Hymenobacter arizonensis OX=1227077 GN=SAMN04515668_4604 PE=4 SV=1
+positive,A0A383RCW9,A0A383RCW9_PAEAL Thermostable beta-glucosidase B OS=Paenibacillus alvei OX=44250 GN=bglB PE=3 SV=1
+negative,A0A9W6QA13,A0A9W6QA13_9ACTN Beta-glucosidase OS=Kitasatospora phosalacinea OX=2065 GN=Kpho02_35320 PE=3 SV=1
+positive,A0A1C6IHP5,A0A1C6IHP5_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_2 PE=3 SV=1
+negative,A0A7X8CTV4,A0A7X8CTV4_9BACT beta-glucosidase OS=Bacteroidales bacterium OX=2030927 GN=GX431_14795 PE=4 SV=1
+positive,A0A1C5MTQ4,A0A1C5MTQ4_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_2 PE=3 SV=1
+negative,A0A834TDV2,A0A834TDV2_9FABA beta-glucosidase OS=Senna tora OX=362788 GN=G2W53_024720 PE=4 SV=1
+positive,A0A1C5PL51,A0A1C5PL51_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_2 PE=3 SV=1
+negative,A0A5J6U5L9,A0A5J6U5L9_9ACTN Family 1 glycosylhydrolase OS=Actinomadura sp. WMMB 499 OX=1219491 GN=F7P10_14510 PE=3 SV=1
+positive,A0A916C3X2,A0A916C3X2_9CHLR Beta-glucosidase OS=Thermoflexales bacterium OX=2497639 GN=bglX PE=4 SV=1
+negative,A0A0S8EAX1,A0A0S8EAX1_9BACT Beta-glucosidase OS=Nitrospira bacterium SM23_35 OX=1704026 GN=AMK74_02625 PE=3 SV=1
+positive,A0A0M2HDD0,A0A0M2HDD0_MICTR Thermostable beta-glucosidase B OS=Microbacterium trichothecenolyticum OX=69370 GN=bglB_3 PE=3 SV=1
+negative,A0A5R8WBT0,A0A5R8WBT0_9MICC beta-glucosidase OS=Pseudarthrobacter sp. NamE2 OX=2576838 GN=FDW83_09180 PE=4 SV=1
+positive,A0A0J6VSU2,A0A0J6VSU2_MYCCU Thermostable beta-glucosidase B OS=Mycolicibacterium chubuense OX=1800 GN=bglB PE=3 SV=1
+negative,M4BK81,M4BK81_HYAAE beta-glucosidase OS=Hyaloperonospora arabidopsidis (strain Emoy2) OX=559515 PE=4 SV=1
+positive,A0A1C5UP33,A0A1C5UP33_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_18 PE=3 SV=1
+negative,A0A5D2S711,A0A5D2S711_GOSMU beta-glucosidase OS=Gossypium mustelinum OX=34275 GN=E1A91_D13G268900v1 PE=3 SV=1
+positive,A0A3S4DDK5,A0A3S4DDK5_SEROD Thermostable beta-glucosidase B OS=Serratia odorifera OX=618 GN=bglB_2 PE=3 SV=1
+negative,A0A7X0DXK3,A0A7X0DXK3_9SPHI beta-glucosidase OS=Mucilaginibacter sp. FT3.2 OX=2723090 GN=HDF20_001122 PE=4 SV=1
+positive,A0A0X8X1G6,A0A0X8X1G6_9SPHI Thermostable beta-glucosidase B OS=Mucilaginibacter gotjawali OX=1550579 GN=bglB_3 PE=3 SV=1
+negative,A0A2T6ZRE1,A0A2T6ZRE1_TUBBO Probable beta-glucosidase btgE OS=Tuber borchii OX=42251 GN=B9Z19DRAFT_984460 PE=4 SV=1
+positive,A0A916MQE9,A0A916MQE9_9CHLR Partial Thermostable beta-glucosidase B (Fragment) OS=Anaerolineales bacterium OX=2073117 GN=bglB PE=3 SV=1
+negative,A0A420J1V1,A0A420J1V1_9PEZI Probable beta-glucosidase btgE OS=Golovinomyces cichoracearum OX=62708 GN=GcM3_042015 PE=4 SV=1
+positive,A0A3Q9J381,A0A3Q9J381_9MICO Thermostable beta-glucosidase B OS=Microbacterium oxydans OX=82380 GN=bglB_1 PE=3 SV=1
+negative,A0A397EUA5,A0A397EUA5_APHAT beta-glucosidase OS=Aphanomyces astaci OX=112090 GN=DYB31_012351 PE=4 SV=1
+positive,G2QMT7,G2QMT7_THET4 beta-glucosidase OS=Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799) OX=573729 GN=MYCTH_58882 PE=3 SV=1
+negative,A0A0F8B666,A0A0F8B666_CERFI Probable beta-glucosidase F OS=Ceratocystis fimbriata f. sp. platani OX=88771 GN=bglF PE=3 SV=1
+positive,A0A4P6M4N4,A0A4P6M4N4_9FIRM Thermostable beta-glucosidase B OS=Blautia producta OX=33035 GN=bglB_4 PE=3 SV=1
+negative,A0A7K3M453,A0A7K3M453_9ACTN Beta-glucosidase OS=Phytoactinopolyspora mesophila OX=2650750 GN=F7O44_13050 PE=3 SV=1
+positive,A0A7V2B037,A0A7V2B037_RHOMR beta-glucosidase OS=Rhodothermus marinus OX=29549 GN=ENO59_04945 PE=3 SV=1
+negative,A0AAF0TWX8,A0AAF0TWX8_SOLVR beta-glucosidase OS=Solanum verrucosum OX=315347 GN=MTR67_029061 PE=4 SV=1
+positive,A0A840P1V4,A0A840P1V4_9ACTN beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_003068 PE=3 SV=1
+negative,L8P7A3,L8P7A3_STRVR Beta-glucosidase OS=Streptomyces viridochromogenes Tue57 OX=1160705 GN=STVIR_5554 PE=3 SV=1
+positive,A0A0M0EFV2,A0A0M0EFV2_KOMEU Thermostable beta-glucosidase B OS=Komagataeibacter europaeus OX=33995 GN=bglB2 PE=3 SV=1
+negative,A0A9D4UM16,A0A9D4UM16_ADICA beta-glucosidase OS=Adiantum capillus-veneris OX=13818 GN=GOP47_0014723 PE=4 SV=1
+positive,A0A1C6E9L3,A0A1C6E9L3_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_2 PE=3 SV=1
+negative,A0A2D4FTL8,A0A2D4FTL8_MICCO beta-glucosidase (Fragment) OS=Micrurus corallinus OX=54390 PE=3 SV=1
+positive,A0A085EQH2,A0A085EQH2_9BURK Thermostable beta-glucosidase B OS=Massilia sp. LC238 OX=1502852 GN=bglB PE=3 SV=1
+negative,A0AAD9H173,A0AAD9H173_9STRA beta-glucosidase OS=Phytophthora citrophthora OX=4793 GN=P3T76_000726 PE=4 SV=1
+positive,A0A6J4UTS8,A0A6J4UTS8_9BACT Beta-glucosidase (Fragment) OS=uncultured Thermomicrobiales bacterium OX=1645740 GN=AVDCRST_MAG87-1420 PE=4 SV=1
+negative,A0A940N8K9,A0A940N8K9_9BURK Beta-glucosidase OS=Paraburkholderia sp. LEh10 OX=2821353 GN=J8I87_10370 PE=3 SV=1
+positive,A0A7W3MWS7,A0A7W3MWS7_9ACTN beta-glucosidase OS=Thermomonospora cellulosilytica OX=1411118 GN=HNR21_002205 PE=3 SV=1
+negative,A0A1H6KQ45,A0A1H6KQ45_9FLAO beta-glucosidase OS=Epilithonimonas hominis OX=420404 GN=SAMN05421793_12439 PE=3 SV=1
+positive,A0A564WXM5,A0A564WXM5_9FIRM Thermostable beta-glucosidase B OS=Blautia wexlerae OX=418240 GN=bglB_3 PE=3 SV=1
+negative,A0A0G4LSN1,A0A0G4LSN1_9PEZI beta-glucosidase OS=Verticillium longisporum OX=100787 GN=BN1723_003133 PE=3 SV=1
+positive,G0SD45,G0SD45_CHATD Probable alpha/beta-glucosidase agdC OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0050770 PE=3 SV=1
+negative,A0A1J3IDU7,A0A1J3IDU7_NOCCA beta-glucosidase (Fragment) OS=Noccaea caerulescens OX=107243 GN=MP_TR26779_c4_g1_i1_g.79241 PE=4 SV=1
+positive,C6A200,C6A200_THESM Beta-glucan glucohydrolase OS=Thermococcus sibiricus (strain DSM 12597 / MM 739) OX=604354 GN=TSIB_0580 PE=3 SV=1
+negative,A0A3L6P7J5,A0A3L6P7J5_FUSOX Probable beta-glucosidase btgE OS=Fusarium oxysporum f. sp. cepae OX=396571 GN=BFJ65_g1764 PE=4 SV=1
+positive,A0A1G7KX94,A0A1G7KX94_THETY beta-glucosidase OS=Thermoanaerobacter thermohydrosulfuricus OX=1516 GN=SAMN04244560_00700 PE=3 SV=1
+negative,A0A1Q8A2N5,A0A1Q8A2N5_9BACT beta-glucosidase (Fragment) OS=Bacteroidetes bacterium 13_1_20CM_4_60_6 OX=1805031 GN=AUG74_03910 PE=3 SV=1
+positive,A0A1C6AT70,A0A1C6AT70_9FIRM Thermostable beta-glucosidase B OS=uncultured Flavonifractor sp OX=1193534 GN=bglB_2 PE=3 SV=1
+negative,A0A545V8M6,A0A545V8M6_9HYPO beta-glucosidase OS=Cordyceps javanica OX=43265 GN=IF1G_03815 PE=3 SV=1
+positive,A0A7M4DLF9,A0A7M4DLF9_9MICO Thermostable beta-glucosidase B OS=Occultella aeris OX=2761496 GN=bglB_2 PE=3 SV=1
+negative,A0A7Y5QBZ1,A0A7Y5QBZ1_9CHLR beta-glucosidase OS=Anaerolineae bacterium OX=2052143 GN=HUU31_07420 PE=4 SV=1
+positive,A0A0B0SBM0,A0A0B0SBM0_THES0 Beta-glucosidase OS=Thermus sp. (strain 2.9) OX=1577051 GN=QT17_06115 PE=3 SV=1
+negative,A0AAD9AFU9,A0AAD9AFU9_9PEZI beta-glucosidase OS=Colletotrichum chrysophilum OX=1836956 GN=CCHR01_10393 PE=3 SV=1
+positive,A0A1V6CSG6,A0A1V6CSG6_9BACT Thermostable beta-glucosidase B OS=Bacteroidetes bacterium ADurb.Bin123 OX=1852804 GN=bglB_2 PE=3 SV=1
+negative,A0A0B7NZM3,A0A0B7NZM3_PROFF Beta-glucosidase OS=Propionibacterium freudenreichii subsp. freudenreichii OX=66712 GN=PFCIRM138_06500 PE=3 SV=1
+positive,D0MD38,D0MD38_RHOM4 beta-glucosidase OS=Rhodothermus marinus (strain ATCC 43812 / DSM 4252 / R-10) OX=518766 GN=Rmar_2069 PE=3 SV=1
+negative,A0A3A9VVZ1,A0A3A9VVZ1_9FLAO Beta-glucosidase OS=Aquimarina sp. AD10 OX=1714849 GN=D7033_12720 PE=3 SV=1
+positive,A0A174ER32,A0A174ER32_9FIRM Thermostable beta-glucosidase B OS=Dorea longicatena OX=88431 GN=bglB_2 PE=3 SV=1
+negative,A0A8H5S751,A0A8H5S751_9HYPO beta-glucosidase OS=Fusarium sp. NRRL 52700 OX=1101274 GN=F52700_1254 PE=3 SV=1
+positive,A0A174N6Q8,A0A174N6Q8_9FIRM Thermostable beta-glucosidase B OS=Agathobacter rectalis OX=39491 GN=bglB_3 PE=3 SV=1
+negative,A0A4T0DDQ3,A0A4T0DDQ3_AURPU Probable beta-glucosidase E OS=Aureobasidium pullulans OX=5580 GN=D6C77_05037 PE=3 SV=1
+positive,A0A1C5PXH0,A0A1C5PXH0_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_1 PE=3 SV=1
+negative,A0A0G4LFR0,A0A0G4LFR0_9PEZI beta-glucosidase OS=Verticillium longisporum OX=100787 GN=BN1708_014465 PE=3 SV=1
+positive,A0A9X1KT70,A0A9X1KT70_9BACT beta-glucosidase OS=Rhodothermaceae bacterium OX=2026787 GN=LC662_02545 PE=4 SV=1
+negative,A0A2T5BX83,A0A2T5BX83_9BACT beta-glucosidase OS=Mangrovibacterium marinum OX=1639118 GN=C8N47_13011 PE=3 SV=1
+positive,A0A173Y7J5,A0A173Y7J5_9FIRM Thermostable beta-glucosidase B OS=Dorea longicatena OX=88431 GN=bglB_1 PE=3 SV=1
+negative,A0A3B6DKI4,A0A3B6DKI4_WHEAT beta-glucosidase OS=Triticum aestivum OX=4565 GN=CFC21_031887 PE=3 SV=1
+positive,A0A399G7A4,A0A399G7A4_9ACTN Beta-glucosidase OS=Thermobifida halotolerans OX=483545 GN=NI17_006275 PE=3 SV=1
+negative,A0AA92WMM0,A0AA92WMM0_9BACT beta-glucosidase OS=Segatella copri OX=165179 GN=DW026_08050 PE=4 SV=1
+positive,A0A1A7KIP1,A0A1A7KIP1_9FLAO Thermostable beta-glucosidase B OS=Chryseobacterium sp. MOF25P OX=1664318 GN=bglB PE=3 SV=1
+negative,A0A374C6U6,A0A374C6U6_9BACT beta-glucosidase OS=Prevotella sp. AM42-24 OX=2293125 GN=DW917_08615 PE=3 SV=1
+positive,G0GCI8,G0GCI8_SPITZ beta-glucosidase OS=Spirochaeta thermophila (strain ATCC 700085 / DSM 6578 / Z-1203) OX=869211 GN=Spith_1795 PE=3 SV=1
+negative,A0A5T3RRS1,A0A5T3RRS1_SALER beta-glucosidase OS=Salmonella enterica OX=28901 GN=bglX PE=3 SV=1
+positive,A0A160TID1,A0A160TID1_9ZZZZ Beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MGWOODY_Smn3426 PE=4 SV=1
+negative,N4X2G8,N4X2G8_COCH4 Probable beta-glucosidase G OS=Cochliobolus heterostrophus (strain C4 / ATCC 48331 / race T) OX=665024 GN=COCC4DRAFT_66419 PE=3 SV=1
+positive,A0A173QV42,A0A173QV42_9FIRM Thermostable beta-glucosidase B OS=Coprococcus comes OX=410072 GN=bglB PE=3 SV=1
+negative,A0A919Q665,A0A919Q665_9ACTN beta-glucosidase OS=Acrocarpospora phusangensis OX=1070424 GN=Aph01nite_06360 PE=3 SV=1
+positive,A0A1C5UMA9,A0A1C5UMA9_9FIRM Thermostable beta-glucosidase B OS=uncultured Eubacterium sp OX=165185 GN=bglB PE=4 SV=1
+negative,D6RVX0,D6RVX0_9BACL Beta-glucosidase OS=Paenibacillus relictisesami OX=796573 GN=PSTG PE=1 SV=1
+positive,A0A1C5L4W0,A0A1C5L4W0_9BACE Thermostable beta-glucosidase B OS=uncultured Bacteroides sp OX=162156 GN=bglB PE=3 SV=1
+negative,A0A3B0B9I6,A0A3B0B9I6_9MICO beta-glucosidase OS=Microbacterium sp. CGR2 OX=1805820 GN=D7252_17550 PE=4 SV=1
+positive,A0A3B0TVF2,A0A3B0TVF2_9ZZZZ beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MNBD_BACTEROID01-321 PE=4 SV=1
+negative,A0A8B5WT26,A0A8B5WT26_9SPIO Beta-glucosidase OS=Spirochaetaceae bacterium OX=1898206 GN=EA426_09670 PE=3 SV=1
+positive,A0A972INJ7,A0A972INJ7_9THEM Beta-glucosidase OS=Thermotogaceae bacterium OX=2268206 GN=GXY29_05300 PE=3 SV=1
+negative,A0AA38UAX8,A0AA38UAX8_9AGAR Probable beta-glucosidase G OS=Lentinula raphanica OX=153919 GN=F5878DRAFT_628417 PE=3 SV=1
+positive,A0A6N2YXC0,A0A6N2YXC0_9FIRM Thermostable beta-glucosidase B OS=[Ruminococcus] torques OX=33039 GN=bglB_2 PE=3 SV=1
+negative,A0A950LPU7,A0A950LPU7_UNCAI beta-glucosidase OS=Acidobacteriota bacterium OX=1978231 GN=JOZ36_10420 PE=4 SV=1
+positive,Q8GEB0,Q8GEB0_9DEIN Beta-glucosidase OS=Thermus sp. IB-21 OX=206164 PE=3 SV=1
+negative,A0A101ST56,A0A101ST56_9ACTN beta-glucosidase OS=Streptomyces griseoruber OX=1943 GN=AQJ64_27945 PE=3 SV=1
+positive,A0A6J4V3H5,A0A6J4V3H5_9BACT Beta-glucosidase OS=uncultured Thermomicrobiales bacterium OX=1645740 GN=AVDCRST_MAG49-3029 PE=3 SV=1
+negative,A0A9P5BFI4,A0A9P5BFI4_9HYPO beta-glucosidase OS=Fusarium agapanthi OX=1803897 GN=FAGAP_2525 PE=3 SV=1
+positive,A0A9D8VK53,A0A9D8VK53_9BACT beta-glucosidase OS=Rhodothermales bacterium OX=2306054 GN=JJ976_11040 PE=4 SV=1
+negative,A0A7W9GSH9,A0A7W9GSH9_9ACTN Beta-glucosidase OS=Jiangella mangrovi OX=1524084 GN=HD601_003820 PE=3 SV=1
+positive,A0A449GDU7,A0A449GDU7_NOCFR Thermostable beta-glucosidase B OS=Nocardia farcinica OX=37329 GN=bglB PE=3 SV=1
+negative,A0A966KU00,A0A966KU00_9FLAO Beta-glucosidase OS=Flavobacteriales bacterium OX=2021391 GN=GW810_03710 PE=3 SV=1
+positive,A0A498QJB2,A0A498QJB2_9MYCO Thermostable beta-glucosidase B OS=Mycobacterium pseudokansasii OX=2341080 GN=bglB_1 PE=3 SV=1
+negative,U7PSN2,U7PSN2_SPOS1 beta-glucosidase OS=Sporothrix schenckii (strain ATCC 58251 / de Perez 2211183) OX=1391915 GN=HMPREF1624_05445 PE=3 SV=1
+positive,E6KQG2,E6KQG2_9ACTO Thermostable beta-glucosidase B OS=Actinomyces sp. oral taxon 180 str. F0310 OX=888052 GN=HMPREF9006_0464 PE=3 SV=1
+negative,A0A3M7JD16,A0A3M7JD16_HORWE Probable beta-glucosidase G OS=Hortaea werneckii OX=91943 GN=D0859_00336 PE=3 SV=1
+positive,A0A7Y2CS03,A0A7Y2CS03_9BACT beta-glucosidase OS=Rhodothermales bacterium OX=2306054 GN=HKN37_14050 PE=4 SV=1
+negative,F0RYB6,F0RYB6_SPHGB Beta-glucosidase OS=Sphaerochaeta globosa (strain ATCC BAA-1886 / DSM 22777 / Buddy) OX=158189 GN=SpiBuddy_0788 PE=3 SV=1
+positive,L7VNG8,L7VNG8_THES1 Beta-glucosidase OS=Thermoclostridium stercorarium (strain ATCC 35414 / DSM 8532 / NCIMB 11754) OX=1121335 GN=cbG PE=4 SV=1
+negative,A0A1T4RCN0,A0A1T4RCN0_9BACT beta-glucosidase OS=Sediminibacterium ginsengisoli OX=413434 GN=SAMN04488132_111119 PE=3 SV=1
+positive,A0A653TF17,A0A653TF17_9MICO Thermostable beta-glucosidase B OS=Microbacterium sp. 8M OX=2653153 GN=bglB PE=3 SV=1
+negative,A0A9P6MYQ8,A0A9P6MYQ8_9FUNG beta-glucosidase OS=Entomortierella chlamydospora OX=101097 GN=BGZ80_006608 PE=3 SV=1
+positive,A0A1R4B0V4,A0A1R4B0V4_9VIBR Thermostable beta-glucosidase B OS=Vibrio palustris OX=1918946 GN=bglB_2 PE=3 SV=1
+negative,A0A7J6JJ02,A0A7J6JJ02_COLFN beta-glucosidase OS=Colletotrichum fructicola (strain Nara gc5) OX=1213859 GN=cel3A PE=3 SV=1
+positive,A0A3B0XNL9,A0A3B0XNL9_9ZZZZ Beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MNBD_GAMMA11-1325 PE=4 SV=1
+negative,A0A4S9X076,A0A4S9X076_AURPU Probable beta-glucosidase G OS=Aureobasidium pullulans OX=5580 GN=D6C84_10112 PE=3 SV=1
+positive,A0AAI8XQJ8,A0AAI8XQJ8_MYCME Thermostable beta-glucosidase B OS=Mycolicibacterium mageritense OX=53462 GN=bglB PE=3 SV=1
+negative,A0A7K2KK59,A0A7K2KK59_9ACTN Beta-glucosidase OS=Streptomyces sp. SID6041 OX=2690318 GN=GTW71_03585 PE=3 SV=1
+positive,A0A2M8PHI4,A0A2M8PHI4_9CHLR Beta-glucosidase OS=Candidatus Thermofonsia Clade 1 bacterium OX=2364210 GN=CUN49_02655 PE=3 SV=1
+negative,A0A0G4M3V7,A0A0G4M3V7_9PEZI beta-glucosidase (Fragment) OS=Verticillium longisporum OX=100787 GN=BN1708_015260 PE=3 SV=1
+positive,A0AA47BID5,A0AA47BID5_9MYCO Thermostable beta-glucosidase B OS=Mycobacterium persicum OX=1487726 GN=bglB_1 PE=3 SV=1
+negative,A0A1L7WSE0,A0A1L7WSE0_9HELO beta-glucosidase OS=Phialocephala subalpina OX=576137 GN=PAC_05582 PE=3 SV=1
+positive,A0A915ULP1,A0A915ULP1_9BACT Beta-glucosidase OS=Thermoanaerobaculum sp OX=2510637 GN=KatS3mg007_0102 PE=3 SV=1
+negative,A0A174CG08,A0A174CG08_BACUN Family 3 glycosyl hydrolase OS=Bacteroides uniformis OX=820 GN=bglX_7 PE=4 SV=1
+positive,A0A174BQM6,A0A174BQM6_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_3 PE=3 SV=1
+negative,A0A369W020,A0A369W020_9HYPH Beta-glucosidase OS=Pelagibacterium lacus OX=2282655 GN=DVH29_13785 PE=3 SV=1
+positive,A0A6N3ATM8,A0A6N3ATM8_MEDGN Thermostable beta-glucosidase B OS=Mediterraneibacter gnavus OX=33038 GN=bglB_4 PE=3 SV=1
+negative,A0A848QJX3,A0A848QJX3_9SPHN beta-glucosidase OS=Pontixanthobacter rizhaonensis OX=2730337 GN=HKD42_00190 PE=4 SV=1
+positive,L7VKQ9,L7VKQ9_THES1 Beta-glucosidase BglZ OS=Thermoclostridium stercorarium (strain ATCC 35414 / DSM 8532 / NCIMB 11754) OX=1121335 GN=bglZ PE=3 SV=1
+negative,A0A4S9I100,A0A4S9I100_AURPU beta-glucosidase OS=Aureobasidium pullulans OX=5580 GN=D6D04_04738 PE=3 SV=1
+positive,A0A3S4TC76,A0A3S4TC76_9BACT Thermostable beta-glucosidase B OS=Segatella oris OX=28135 GN=bglB_4 PE=3 SV=1
+negative,A0A094DDD3,A0A094DDD3_9PEZI beta-glucosidase OS=Pseudogymnoascus sp. VKM F-4515 OX=1420909 GN=V496_04669 PE=3 SV=1
+positive,A0A160T130,A0A160T130_9CHLR Thermostable beta-glucosidase B OS=Candidatus Promineifilum breve OX=1806508 GN=bglB PE=3 SV=2
+negative,A0A7C6EZV9,A0A7C6EZV9_UNCBA beta-glucosidase OS=Bacteroidota bacterium OX=1898104 GN=ENX59_08640 PE=4 SV=1
+positive,A0A0D0F5F3,A0A0D0F5F3_9BACI Beta-glucosidase OS=Caldibacillus thermoamylovorans OX=35841 GN=B4064_3891 PE=3 SV=1
+negative,A0A511YJ65,A0A511YJ65_9FLAO beta-glucosidase OS=Chryseobacterium hagamense OX=395935 GN=CHA01nite_09770 PE=3 SV=1
+positive,A0A455T8N6,A0A455T8N6_9CHLR Beta-glucosidase OS=Thermogemmatispora argillosa OX=2045280 GN=KTA_39140 PE=3 SV=1
+negative,A0A7X2ZT12,A0A7X2ZT12_9FLAO Beta-glucosidase OS=Zobellia amurskyensis OX=248905 GN=D9O36_08260 PE=3 SV=1
+positive,A0A5P9PXR7,A0A5P9PXR7_9PSEU Thermostable beta-glucosidase B OS=Amycolatopsis sp. YIM 10 OX=2653857 GN=bglB5 PE=3 SV=1
+negative,A0A4R3H706,A0A4R3H706_9CAUL beta-glucosidase OS=Caulobacter sp. BK020 OX=2512117 GN=EV278_10945 PE=4 SV=1
+positive,A0A564VBM9,A0A564VBM9_BIFBR Thermostable beta-glucosidase B OS=Bifidobacterium breve OX=1685 GN=bglB_3 PE=3 SV=1
+negative,A0A7W8RWN5,A0A7W8RWN5_9BURK Beta-glucosidase OS=Paraburkholderia sp. Cpub6 OX=2723094 GN=HDG33_007130 PE=3 SV=1
+positive,A0A1C6ADZ3,A0A1C6ADZ3_9BACE Thermostable beta-glucosidase B OS=uncultured Bacteroides sp OX=162156 GN=bglB_3 PE=3 SV=1
+negative,A0A417YNA5,A0A417YNA5_9BACI beta-glucosidase OS=Oceanobacillus profundus OX=372463 GN=D1B32_00050 PE=4 SV=1
+positive,A0A6N3GZP2,A0A6N3GZP2_9FIRM Thermostable beta-glucosidase B OS=Roseburia intestinalis OX=166486 GN=bglB_4 PE=3 SV=1
+negative,A0A918WBX4,A0A918WBX4_9ACTN Beta-glucosidase OS=Streptomyces termitum OX=67368 GN=GCM10010305_40450 PE=3 SV=1
+positive,A0A1F2PFB4,A0A1F2PFB4_9FIRM Thermostable beta-glucosidase B OS=Acetobacterium wieringae OX=52694 GN=bglB PE=3 SV=1
+negative,A0A428QBN8,A0A428QBN8_9HYPO Probable beta-glucosidase G OS=Fusarium duplospermum OX=1325734 GN=CEP54_005600 PE=3 SV=1
+positive,A0A3B1CPS1,A0A3B1CPS1_9ZZZZ Beta-glucosidase (Fragment) OS=hydrothermal vent metagenome OX=652676 GN=MNBD_IGNAVI01-1206 PE=3 SV=1
+negative,A0AAJ1VH79,A0AAJ1VH79_9FLAO Beta-glucosidase OS=Polaribacter undariae OX=1574269 GN=QWY81_11575 PE=3 SV=1
+positive,A0A7J5UMV8,A0A7J5UMV8_9MICO beta-glucosidase OS=Georgenia thermotolerans OX=527326 GN=GB883_13265 PE=4 SV=1
+negative,A0A9Q0KPK2,A0A9Q0KPK2_9MAGN beta-glucosidase OS=Protea cynaroides OX=273540 GN=NE237_007200 PE=3 SV=1
+positive,A0A1Q9NXE6,A0A1Q9NXE6_9ARCH Thermostable beta-glucosidase B OS=Candidatus Heimdallarchaeota archaeon LC_3 OX=1841598 GN=bglB PE=3 SV=1
+negative,A0A965QSA4,A0A965QSA4_UNCPS beta-glucosidase (Fragment) OS=Pseudomonadota bacterium OX=1977087 GN=EBR50_05510 PE=4 SV=1
+positive,A0A916BKP1,A0A916BKP1_9CHLR beta-glucosidase OS=Thermoflexales bacterium OX=2497639 GN=bglX PE=3 SV=1
+negative,A0A2T8HI68,A0A2T8HI68_9SPHI beta-glucosidase OS=Sphingobacterium corticibacter OX=2171749 GN=DC487_09150 PE=4 SV=1
+positive,A0A1C6BP56,A0A1C6BP56_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_1 PE=3 SV=1
+negative,A0A094IB15,A0A094IB15_9PEZI beta-glucosidase OS=Pseudogymnoascus sp. VKM F-4520 OX=1420915 GN=V502_02594 PE=3 SV=1
+positive,A0A5P9K0W7,A0A5P9K0W7_9HYPH beta-glucosidase OS=Microvirga thermotolerans OX=2651334 GN=GDR74_17455 PE=4 SV=1
+negative,A0A1M3LPG6,A0A1M3LPG6_9MICO beta-glucosidase OS=Leifsonia sp. 71-9 OX=1895934 GN=BGO91_13900 PE=4 SV=1
+positive,A0A174A1Q7,A0A174A1Q7_9BACE Thermostable beta-glucosidase B OS=Bacteroides finegoldii OX=338188 GN=bglB_2 PE=3 SV=1
+negative,A0AAN5RDE4,A0AAN5RDE4_KLEOX Beta-glucosidase BglX OS=Klebsiella oxytoca OX=571 GN=bglX PE=4 SV=1
+positive,A0A953AH88,A0A953AH88_9CHLR Beta-glucosidase OS=Thermogemmatispora sp OX=1968838 GN=IRZ24_17150 PE=3 SV=1
+negative,A0A375E5S8,A0A375E5S8_9BURK Glycosyl hydrolase- BNR repeat OS=Cupriavidus taiwanensis OX=164546 GN=CBM2613_B10017 PE=3 SV=1
+positive,M8CQU4,M8CQU4_THETY Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase OS=Thermoanaerobacter thermohydrosulfuricus WC1 OX=1198630 GN=TthWC1_0925 PE=3 SV=1
+negative,A0A4S9DXD3,A0A4S9DXD3_AURPU Alpha-glucosidase OS=Aureobasidium pullulans OX=5580 GN=D6D12_07056 PE=3 SV=1
+positive,D9TR57,D9TR57_THETC beta-glucosidase OS=Thermoanaerobacterium thermosaccharolyticum (strain ATCC 7956 / DSM 571 / NCIMB 9385 / NCA 3814 / NCTC 13789 / WDCM 00135 / 2032) OX=580327 GN=Tthe_1813 PE=3 SV=1
+negative,A0A853CQ66,A0A853CQ66_9MICO beta-glucosidase OS=Leifsonia shinshuensis OX=150026 GN=HNR13_000849 PE=4 SV=1
+positive,A0AAQ2UWA1,A0AAQ2UWA1_OENOE Thermostable beta-glucosidase B OS=Oenococcus oeni OX=1247 GN=bglB PE=4 SV=1
+negative,K2Q1B7,K2Q1B7_9HYPH Beta-glucosidase OS=Agrobacterium albertimagni AOL15 OX=1156935 GN=QWE_14952 PE=3 SV=1
+positive,A0A4P6PWP5,A0A4P6PWP5_9ACTN Thermostable beta-glucosidase B OS=Streptomonospora litoralis OX=2498135 GN=bglB1 PE=3 SV=1
+negative,A0A7J4XJ92,A0A7J4XJ92_9BACE beta-glucosidase OS=Bacteroides salyersiae OX=291644 GN=F3F73_09665 PE=3 SV=1
+positive,A0A0U5JII0,A0A0U5JII0_9CLOT Thermostable beta-glucosidase B OS=Clostridium sp. C105KSO13 OX=1776045 GN=bglB_5 PE=3 SV=1
+negative,A0A4S9KFX5,A0A4S9KFX5_AURPU beta-glucosidase OS=Aureobasidium pullulans OX=5580 GN=D6D00_09590 PE=3 SV=1
+positive,A0A160VIC0,A0A160VIC0_9ZZZZ beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MGWOODY_Mmi1926 PE=3 SV=1
+negative,A0A8H6PA52,A0A8H6PA52_9EURO Probable beta-glucosidase M OS=Aspergillus hiratsukae OX=1194566 GN=CNMCM5793_000631 PE=3 SV=1
+positive,A0A1X6YFF7,A0A1X6YFF7_9RHOB Thermostable beta-glucosidase B OS=Pseudooceanicola marinus OX=396013 GN=bglB PE=3 SV=1
+negative,A0A7X0IFC7,A0A7X0IFC7_9ACTN Beta-glucosidase OS=Sphaerisporangium rubeum OX=321317 GN=BJ992_003641 PE=3 SV=1
+positive,A0A399DYS7,A0A399DYS7_9DEIN beta-glucosidase OS=Calidithermus terrae OX=1408545 GN=Mterra_03765 PE=4 SV=1
+negative,A0A4R3NE99,A0A4R3NE99_9HYPH beta-glucosidase (Fragment) OS=Martelella mediterranea OX=293089 GN=EDC90_10741 PE=4 SV=1
+positive,A0A1C5ZHY6,A0A1C5ZHY6_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_3 PE=3 SV=1
+negative,A0A6I5EU30,A0A6I5EU30_9ACTN beta-glucosidase OS=Streptomyces sp. SID8356 OX=2690340 GN=GTY66_05170 PE=3 SV=1
+positive,A0A497G718,A0A497G718_9CREN beta-glucosidase (Fragment) OS=Thermoprotei archaeon OX=2250277 GN=DRK00_09540 PE=4 SV=1
+negative,A0A8T7AX36,A0A8T7AX36_9GAMM beta-glucosidase OS=Gammaproteobacteria bacterium OX=1913989 GN=HKN49_06945 PE=4 SV=1
+positive,A0A173UNU0,A0A173UNU0_9FIRM Thermostable beta-glucosidase B OS=Roseburia intestinalis OX=166486 GN=bglB_5 PE=3 SV=1
+negative,A0A414DZ24,A0A414DZ24_BACOV beta-glucosidase OS=Bacteroides ovatus OX=28116 GN=F3B53_09375 PE=3 SV=1
+positive,A0A832GZD8,A0A832GZD8_9CREN beta-glucosidase (Fragment) OS=Thermofilum sp OX=1961369 GN=ENV13_05845 PE=4 SV=1
+negative,A0A2I0GCQ9,A0A2I0GCQ9_PUNGR beta-glucosidase OS=Punica granatum OX=22663 GN=CRG98_050354 PE=4 SV=1
+positive,D1C7U8,D1C7U8_SPHTD Beta-glucosidase OS=Sphaerobacter thermophilus (strain ATCC 49802 / DSM 20745 / KCCM 41009 / NCIMB 13125 / S 6022) OX=479434 GN=Sthe_0493 PE=3 SV=1
+negative,I0H4B9,I0H4B9_ACTM4 Putative glycosyl hydrolase OS=Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NBRC 102363 / NCIMB 12654 / NRRL B-3342 / UNCC 431) OX=512565 GN=AMIS_26360 PE=3 SV=1
+positive,A0A395LXS4,A0A395LXS4_9BACT beta-glucosidase OS=Candidatus Thermochlorobacter aerophilum OX=1868324 GN=D0433_11230 PE=3 SV=1
+negative,A0AAJ3J3Y6,A0AAJ3J3Y6_PAEPO Beta-glucosidase OS=Paenibacillus polymyxa OX=1406 GN=A7312_19395 PE=3 SV=1
+positive,A0A4U9VUZ3,A0A4U9VUZ3_SERFO Thermostable beta-glucosidase B OS=Serratia fonticola OX=47917 GN=bglB_5 PE=3 SV=1
+negative,A0A959S059,A0A959S059_9BACT Beta-glucosidase OS=Ignavibacteriota bacterium OX=2026749 GN=KDC52_17220 PE=3 SV=1
+positive,A0A1D8FZW3,A0A1D8FZW3_9ACTN Thermostable beta-glucosidase B OS=Streptomyces rubrolavendulae OX=285473 GN=bglB PE=3 SV=1
+negative,A0A5J0IPI1,A0A5J0IPI1_SALET beta-glucosidase OS=Salmonella enterica subsp. enterica serovar Hvittingfoss OX=486994 GN=bglX PE=3 SV=1
+positive,A0A7W3RB01,A0A7W3RB01_9ACTN Beta-glucosidase OS=Thermomonospora cellulosilytica OX=1411118 GN=HNR21_005091 PE=4 SV=1
+negative,A0A6L7MVH2,A0A6L7MVH2_9GAMM beta-glucosidase OS=Gammaproteobacteria bacterium OX=1913989 GN=F4Y86_14565 PE=4 SV=1
+positive,A0A2X2VMF0,A0A2X2VMF0_CHRJE Thermostable beta-glucosidase B OS=Chryseobacterium jejuense OX=445960 GN=bglB PE=3 SV=1
+negative,C6IQS4,C6IQS4_BACT4 beta-glucosidase OS=Bacteroides thetaiotaomicron OX=818 GN=bglX_4 PE=3 SV=2
+positive,Q4U4W7,Q4U4W7_THEAU beta-glucosidase OS=Thermoascus aurantiacus OX=5087 GN=bgl2 PE=2 SV=1
+negative,A0A2G6VVS2,A0A2G6VVS2_9FLAO beta-glucosidase OS=Flavobacterium sp. 11 OX=357523 GN=CLV00_1836 PE=3 SV=1
+positive,A0A1C6H0T8,A0A1C6H0T8_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_2 PE=3 SV=1
+negative,A0A7J7KU99,A0A7J7KU99_9MAGN beta-glucosidase OS=Kingdonia uniflora OX=39325 GN=GIB67_040704 PE=3 SV=1
+positive,A0A931EIR4,A0A931EIR4_9DEIN beta-glucosidase OS=Thermaceae bacterium OX=2614257 GN=IVW51_09930 PE=3 SV=1
+negative,A0A3D9N3K2,A0A3D9N3K2_9FLAO beta-glucosidase OS=Winogradskyella pacifica OX=664642 GN=DFQ09_101374 PE=3 SV=1
+positive,A0A2E3QRL1,A0A2E3QRL1_9BACT Beta-glucosidase OS=Rhodothermaceae bacterium OX=2026787 GN=CMM85_01355 PE=3 SV=1
+negative,S3JZV6,S3JZV6_9ENTR beta-glucosidase OS=Cedecea davisae DSM 4568 OX=566551 GN=HMPREF0201_01163 PE=3 SV=1
+positive,A0A7V5E2X8,A0A7V5E2X8_9BACT Beta-glucosidase OS=Candidatus Acetothermia bacterium OX=2053493 GN=ENV00_08035 PE=3 SV=1
+negative,M3D3N7,M3D3N7_9ACTN Beta-glucosidase OS=Streptomyces gancidicus BKS 13-15 OX=1284664 GN=H114_01058 PE=3 SV=1
+positive,A0A174IRL4,A0A174IRL4_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_9 PE=3 SV=1
+negative,A0A7T7XRV2,A0A7T7XRV2_9SPIR Beta-glucosidase OS=Breznakiella homolactica OX=2798577 GN=JFL75_10170 PE=3 SV=1
+positive,A0A3P4AY36,A0A3P4AY36_THETH Beta-glucosidase OS=Thermus thermophilus OX=274 GN=bglA PE=3 SV=1
+negative,A0A1H8KCV9,A0A1H8KCV9_9SPHI beta-glucosidase OS=Mucilaginibacter gossypiicola OX=551995 GN=SAMN05192574_104561 PE=4 SV=1
+positive,A0A953JF43,A0A953JF43_9ACTN beta-glucosidase (Fragment) OS=Acidothermus sp OX=1872121 GN=IRZ02_07675 PE=3 SV=1
+negative,A0A8J3G4M7,A0A8J3G4M7_9BACT beta-glucosidase OS=Mongoliitalea lutea OX=849756 GN=GCM10008106_08860 PE=4 SV=1
+positive,A0A1T4M595,A0A1T4M595_9ACTN Beta-glucosidase OS=Marinactinospora thermotolerans DSM 45154 OX=1122192 GN=SAMN02745673_00953 PE=3 SV=1
+negative,A0A5N6F7J9,A0A5N6F7J9_9EURO Probable alpha/beta-glucosidase agdC OS=Aspergillus novoparasiticus OX=986946 GN=BDV33DRAFT_135042 PE=3 SV=1
+positive,A0A060BUY8,A0A060BUY8_9THEO beta-glucosidase (Fragment) OS=uncultured Thermoanaerobacter sp OX=242695 PE=4 SV=1
+negative,A0A838L881,A0A838L881_9SPHN beta-glucosidase OS=Sphingomonas chungangi OX=2683589 GN=HZF05_12570 PE=4 SV=1
+positive,A0A6N2RRB9,A0A6N2RRB9_BIFLN Thermostable beta-glucosidase B OS=Bifidobacterium longum OX=216816 GN=bglB_3 PE=3 SV=1
+negative,A0A2E8PP15,A0A2E8PP15_9SPIO Beta-glucosidase OS=Spirochaetaceae bacterium OX=1898206 GN=CMN77_01440 PE=3 SV=1
+positive,A0A3P8JLQ2,A0A3P8JLQ2_RAOTE Thermostable beta-glucosidase B OS=Raoultella terrigena OX=577 GN=bglB_2 PE=3 SV=1
+negative,A0A7W8U9U7,A0A7W8U9U7_9HYPH Beta-glucosidase OS=Rhizobium giardinii OX=56731 GN=GGD55_002126 PE=3 SV=1
+positive,A0A3N2GXR1,A0A3N2GXR1_9PSEU Beta-glucosidase OS=Amycolatopsis thermoflava OX=84480 GN=EDD35_3338 PE=3 SV=1
+negative,A0A0A2K704,A0A0A2K704_PENIT beta-glucosidase OS=Penicillium italicum OX=40296 GN=PITC_049030 PE=3 SV=1
+positive,A0A1C6F9R8,A0A1C6F9R8_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_9 PE=3 SV=1
+negative,A0A9N7RRB7,A0A9N7RRB7_STRHE beta-glucosidase OS=Striga hermonthica OX=68872 GN=SHERM_07458 PE=4 SV=1
+positive,A0A0C7P274,A0A0C7P274_DEFTU Thermostable beta-glucosidase B OS=Defluviitoga tunisiensis OX=1006576 GN=bglB1 PE=3 SV=1
+negative,A0A3Q9NRN4,A0A3Q9NRN4_9MICO Beta-glucosidase OS=Brevibacterium aurantiacum OX=273384 GN=CXR23_09960 PE=3 SV=1
+positive,G2LE13,G2LE13_CHLTF Beta-galactosidase OS=Chloracidobacterium thermophilum (strain B) OX=981222 GN=Cabther_A0309 PE=3 SV=1
+negative,A0A0G0PX59,A0A0G0PX59_9BACT Beta-glucosidase A OS=Candidatus Falkowbacteria bacterium GW2011_GWF2_39_8 OX=1618642 GN=UT64_C0032G0017 PE=3 SV=1
+positive,A0A660RHJ2,A0A660RHJ2_9THEM Beta-glucosidase OS=Thermotoga sp OX=28240 GN=DRP24_06110 PE=3 SV=1
+negative,A0A1L9R7T4,A0A1L9R7T4_ASPWE Probable beta-glucosidase G OS=Aspergillus wentii DTO 134E9 OX=1073089 GN=ASPWEDRAFT_176038 PE=3 SV=1
+positive,A0A163QCD3,A0A163QCD3_9CELL Thermostable beta-glucosidase B OS=Oerskovia enterophila OX=43678 GN=bglB_7 PE=3 SV=1
+negative,A0A2D8EP08,A0A2D8EP08_9PROT beta-glucosidase OS=Hyphomonas sp OX=87 GN=CME98_11675 PE=4 SV=1
+positive,A0A916H315,A0A916H315_9CHLR Partial Thermostable beta-glucosidase B (Fragment) OS=Anaerolineae bacterium OX=2052143 GN=bglB PE=3 SV=1
+negative,A0A7R7WPP9,A0A7R7WPP9_ASPKA beta-glucosidase OS=Aspergillus kawachii OX=1069201 GN=AKAW2_11320A PE=3 SV=1
+positive,A0A174RXR9,A0A174RXR9_9FIRM Thermostable beta-glucosidase B OS=Blautia wexlerae OX=418240 GN=bglB_6 PE=3 SV=1
+negative,Q6CEN5,Q6CEN5_YARLI beta-glucosidase OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=YALI0_B14289g PE=3 SV=1
+positive,A0A7C4KHK4,A0A7C4KHK4_9CHLR beta-glucosidase OS=Anaerolinea thermolimosa OX=229919 GN=ENT37_09110 PE=3 SV=1
+negative,A0A0G1KYW0,A0A0G1KYW0_9BACT Beta-glucosidase A OS=Parcubacteria group bacterium GW2011_GWB1_45_10 OX=1618877 GN=UW89_C0005G0008 PE=3 SV=1
+positive,A0A173V796,A0A173V796_9FIRM Thermostable beta-glucosidase B OS=Roseburia inulinivorans OX=360807 GN=bglB_4 PE=3 SV=1
+negative,A0A7W8SYR3,A0A7W8SYR3_9BURK Beta-glucosidase OS=Paraburkholderia sp. MM5384-R2 OX=2723097 GN=HDG37_001220 PE=3 SV=1
+positive,E4Q7Z7,E4Q7Z7_CALH1 beta-glucosidase OS=Caldicellulosiruptor hydrothermalis (strain DSM 18901 / VKM B-2411 / 108) OX=632292 GN=Calhy_2210 PE=3 SV=1
+negative,A0A8J3NUY8,A0A8J3NUY8_9ACTN beta-glucosidase OS=Catellatospora chokoriensis OX=310353 GN=bglX PE=4 SV=1
+positive,A0A7C0X7E6,A0A7C0X7E6_9BACT Glycosyl hydrolase family protein (Fragment) OS=Thermotogales bacterium OX=2093812 GN=ENG58_05580 PE=3 SV=1
+negative,H1W5S5,H1W5S5_COLHI beta-glucosidase OS=Colletotrichum higginsianum (strain IMI 349063) OX=759273 GN=CH063_04301 PE=3 SV=1
+positive,A0A1M5ZQW3,A0A1M5ZQW3_9VIBR Thermostable beta-glucosidase B OS=Vibrio aerogenes CECT 7868 OX=1216006 GN=bglB_2 PE=3 SV=1
+negative,A0A939GK98,A0A939GK98_9BACT beta-glucosidase OS=Fibrella rubiginis OX=2817060 GN=J2I47_15615 PE=4 SV=1
+positive,A0A1C6HL78,A0A1C6HL78_9BACE Thermostable beta-glucosidase B OS=uncultured Bacteroides sp OX=162156 GN=bglB_4 PE=3 SV=1
+negative,A0A1G6C2R6,A0A1G6C2R6_9FLAO beta-glucosidase OS=Flavobacteriaceae bacterium MAR_2010_188 OX=1250295 GN=SAMN03097699_0422 PE=3 SV=1
+positive,A0A1H6BV72,A0A1H6BV72_9ACTN Beta-glucosidase OS=Thermomonospora echinospora OX=1992 GN=SAMN04489712_10832 PE=3 SV=1
+negative,A0A9Q8SKZ7,A0A9Q8SKZ7_9PEZI Probable beta-glucosidase G OS=Colletotrichum lupini OX=145971 GN=CLUP02_04785 PE=3 SV=1
+positive,A0A174T519,A0A174T519_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_10 PE=3 SV=1
+negative,A0A9P9FVP4,A0A9P9FVP4_9HYPO beta-glucosidase OS=Dactylonectria macrodidyma OX=307937 GN=EDB81DRAFT_864300 PE=3 SV=1
+positive,A0A0M2H1T9,A0A0M2H1T9_9MICO Thermostable beta-glucosidase B OS=Microbacterium terrae OX=69369 GN=bglB_4 PE=3 SV=1
+negative,A0A9W8PML7,A0A9W8PML7_9HYPO beta-glucosidase OS=Fusarium irregulare OX=2494466 GN=BGL4 PE=3 SV=1
+positive,A0A6N3F6J1,A0A6N3F6J1_MEDGN Thermostable beta-glucosidase B OS=Mediterraneibacter gnavus OX=33038 GN=bglB_10 PE=3 SV=1
+negative,A0A1H7P2G7,A0A1H7P2G7_9BACL beta-glucosidase OS=Paenibacillus sp. cl141a OX=1761877 GN=SAMN04488688_103397 PE=3 SV=1
+positive,A0A1C6CJT4,A0A1C6CJT4_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_3 PE=3 SV=1
+negative,A0A4S2TXR9,A0A4S2TXR9_9ACTN Beta-glucosidase OS=Streptomyces sp. A0958 OX=2563101 GN=E6P78_22160 PE=3 SV=1
+positive,A0A174MTR4,A0A174MTR4_9FIRM Thermostable beta-glucosidase B OS=Blautia obeum OX=40520 GN=bglB_1 PE=3 SV=1
+negative,A0A4S9XQ72,A0A4S9XQ72_AURPU Probable beta-glucosidase G OS=Aureobasidium pullulans OX=5580 GN=D6C84_06373 PE=3 SV=1
+positive,A0A385LT20,A0A385LT20_RHOMR beta-glucosidase (Fragment) OS=Rhodothermus marinus OX=29549 PE=3 SV=1
+negative,A0A0N0HMH4,A0A0N0HMH4_9ACTN Beta-glucosidase OS=Streptomyces sp. NRRL S-4 OX=1519471 GN=ADK82_09590 PE=3 SV=1
+positive,A0A1H1ETD6,A0A1H1ETD6_9ACTN Beta-glucosidase OS=Thermostaphylospora chromogena OX=35622 GN=SAMN04489764_2624 PE=3 SV=1
+negative,A0A9X0JJW1,A0A9X0JJW1_9PSED beta-glucosidase OS=Pseudomonas lutea OX=243924 GN=LT42_04320 PE=3 SV=1
+positive,A0A662I091,A0A662I091_9CREN beta-glucosidase (Fragment) OS=Thermoprotei archaeon OX=2250277 GN=DRJ96_10075 PE=3 SV=1
+negative,A0A0Q6VNH8,A0A0Q6VNH8_9ACTN Beta-glucosidase OS=Aeromicrobium sp. Root344 OX=1736521 GN=ASC61_18710 PE=3 SV=1
+positive,A0A1L7BHA2,A0A1L7BHA2_9BACT Beta-glucosidase OS=Thermosipho sp. 1063 OX=1462747 GN=BG95_08890 PE=3 SV=1
+negative,M1CZQ6,M1CZQ6_SOLTU beta-glucosidase OS=Solanum tuberosum OX=4113 PE=4 SV=1
+positive,A0A1C5QA62,A0A1C5QA62_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_2 PE=3 SV=1
+negative,A0A957Y8M3,A0A957Y8M3_9CHLR beta-glucosidase (Fragment) OS=Anaerolineae bacterium OX=2052143 GN=KDH89_22575 PE=4 SV=1
+positive,A0A1C6F7B9,A0A1C6F7B9_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_2 PE=3 SV=1
+negative,A0A8H5Z4W9,A0A8H5Z4W9_9HYPO beta-glucosidase OS=Fusarium mundagurra OX=1567541 GN=FMUND_1270 PE=3 SV=1
+positive,A0A564USZ5,A0A564USZ5_9FIRM Thermostable beta-glucosidase B OS=Faecalibacterium prausnitzii OX=853 GN=bglB_1 PE=3 SV=1
+negative,A0A9P9MV22,A0A9P9MV22_9HELO beta-glucosidase OS=Rhexocercosporidium sp. MPI-PUGE-AT-0058 OX=2042821 GN=BKA65DRAFT_593839 PE=3 SV=1
+positive,Q53W75,Q53W75_THET8 Beta-glucosidase OS=Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8) OX=300852 GN=TTHB087 PE=1 SV=1
+negative,A0A9W9S262,A0A9W9S262_9EURO beta-glucosidase OS=Penicillium cataractarum OX=2100454 GN=N7496_006718 PE=3 SV=1
+positive,E0RNZ7,E0RNZ7_SPITD beta-glucosidase OS=Spirochaeta thermophila (strain ATCC 49972 / DSM 6192 / RI 19.B1) OX=665571 GN=STHERM_c17240 PE=3 SV=1
+negative,F1DPQ8,F1DPQ8_BIFLN beta-glucosidase OS=Bifidobacterium longum OX=216816 PE=4 SV=1
+positive,A8F766,A8F766_PSELT Glycoside hydrolase family 1 OS=Pseudothermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / NBRC 107922 / TMO) OX=416591 GN=Tlet_1444 PE=3 SV=1
+negative,A0A7Z7D424,A0A7Z7D424_9MICO Beta-glucosidase OS=Microbacterium saccharophilum OX=1213358 GN=SAMN04487751_2834 PE=3 SV=1
+positive,A0A1V5GPF7,A0A1V5GPF7_9FIRM Thermostable beta-glucosidase B OS=Firmicutes bacterium ADurb.BinA205 OX=1852897 GN=bglB PE=3 SV=1
+negative,A0A847N2G8,A0A847N2G8_9SPIR beta-glucosidase OS=Spirochaetales bacterium OX=2026792 GN=GX315_06225 PE=4 SV=1
+positive,A0A326UC64,A0A326UC64_THEHA Beta-glucosidase OS=Thermosporothrix hazakensis OX=644383 GN=EI42_04084 PE=3 SV=1
+negative,A0A810MV91,A0A810MV91_9ACTN Beta-glucosidase OS=Polymorphospora rubra OX=338584 GN=Prubr_05940 PE=3 SV=1
+positive,A0A7U9X4Z9,A0A7U9X4Z9_9FIRM Thermostable beta-glucosidase B OS=Lachnospiraceae bacterium OX=1898203 GN=bglB_1 PE=3 SV=1
+negative,E3ZPC9,E3ZPC9_LISSE beta-glucosidase OS=Listeria seeligeri FSL N1-067 OX=702453 GN=NT03LS_1309 PE=4 SV=1
+positive,A0A916BPI6,A0A916BPI6_9CHLR beta-glucosidase OS=Thermoflexales bacterium OX=2497639 GN=bglX PE=3 SV=1
+negative,A0A174JA73,A0A174JA73_9FIRM beta-glucosidase OS=Hungatella hathewayi OX=154046 GN=bgxA1 PE=4 SV=1
+positive,A0A1C6IM68,A0A1C6IM68_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_3 PE=3 SV=1
+negative,A0A7S3TPN4,A0A7S3TPN4_9SPIT beta-glucosidase (Fragment) OS=Strombidinopsis acuminata OX=141414 GN=SACU0126_LOCUS28872 PE=3 SV=1
+positive,A0A564SLX4,A0A564SLX4_9FIRM Thermostable beta-glucosidase B OS=Blautia obeum OX=40520 GN=bglB_2 PE=3 SV=1
+negative,U2RVM8,U2RVM8_LEIAQ beta-glucosidase OS=Leifsonia aquatica ATCC 14665 OX=1358026 GN=N136_00806 PE=3 SV=1
+positive,A0A921GG53,A0A921GG53_9ACTN beta-glucosidase OS=Thermophilibacter provencensis OX=1852386 GN=K8U72_06280 PE=3 SV=1
+negative,I8W087,I8W087_9BACE beta-glucosidase OS=Bacteroides cellulosilyticus CL02T12C19 OX=997874 GN=HMPREF1062_02263 PE=3 SV=1
+positive,A0A1J5SMT8,A0A1J5SMT8_9ZZZZ Thermostable beta-glucosidase B OS=mine drainage metagenome OX=410659 GN=bglB_2 PE=3 SV=1
+negative,A0A944J8G1,A0A944J8G1_9ACTN beta-glucosidase OS=Streptomyces sp. ISL-63 OX=2819185 GN=J7E92_11485 PE=3 SV=1
+positive,A0A1C6A4M4,A0A1C6A4M4_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_4 PE=3 SV=1
+negative,A0A7L8D2Q8,A0A7L8D2Q8_9MICO Beta-glucosidase OS=Chryseoglobus sp. 28M-23 OX=2772253 GN=IE160_10820 PE=3 SV=1
+positive,A0A1V5QBB2,A0A1V5QBB2_9FIRM Thermostable beta-glucosidase B OS=Firmicutes bacterium ADurb.Bin354 OX=1852889 GN=bglB PE=3 SV=1
+negative,A0A542YIC4,A0A542YIC4_9MICO Beta-glucosidase OS=Homoserinimonas aerilata OX=1162970 GN=FB562_0914 PE=3 SV=1
+positive,A0A6M8B9W1,A0A6M8B9W1_9CYAN Beta-glucosidase OS=Thermoleptolyngbya sichuanensis A183 OX=2737172 GN=HPC62_00880 PE=3 SV=1
+negative,A0A8H5M365,A0A8H5M365_9AGAR beta-glucosidase OS=Tricholomella constricta OX=117010 GN=D9615_006860 PE=3 SV=1
+positive,A0A1C6ELP0,A0A1C6ELP0_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB PE=3 SV=1
+negative,A0A3G6MHV2,A0A3G6MHV2_9FLAO beta-glucosidase OS=Chryseobacterium sp. G0201 OX=2487065 GN=bglX PE=3 SV=1
+positive,A0A381FD14,A0A381FD14_9FLAO Thermostable beta-glucosidase B OS=Chryseobacterium indoltheticum OX=254 GN=bglB PE=3 SV=1
+negative,A0AAD5I504,A0AAD5I504_9HYPO beta-glucosidase OS=Fusarium sp. LHS14.1 OX=2898545 GN=NCS52_00143600 PE=3 SV=1
+positive,A0A174HUZ9,A0A174HUZ9_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_2 PE=3 SV=1
+negative,A0A397BC54,A0A397BC54_APHAT beta-glucosidase OS=Aphanomyces astaci OX=112090 GN=DYB36_007498 PE=4 SV=1
+positive,A0A326UCX2,A0A326UCX2_THEHA Beta-glucosidase OS=Thermosporothrix hazakensis OX=644383 GN=EI42_01182 PE=3 SV=1
+negative,A0A3R6A2W5,A0A3R6A2W5_9FIRM Beta-glucosidase OS=Roseburia intestinalis OX=166486 GN=DW927_12715 PE=3 SV=1
+positive,A0A165YG06,A0A165YG06_9HYPH Thermostable beta-glucosidase B OS=Pseudovibrio axinellae OX=989403 GN=bglB PE=3 SV=1
+negative,F7M4W0,F7M4W0_9BACE beta-glucosidase OS=Bacteroides sp. 1_1_30 OX=457387 GN=HMPREF0127_02527 PE=3 SV=1
+positive,A0A174UUN1,A0A174UUN1_9FIRM Thermostable beta-glucosidase B OS=Dorea longicatena OX=88431 GN=bglB PE=3 SV=1
+negative,A0A135TLK8,A0A135TLK8_9PEZI beta-glucosidase OS=Colletotrichum simmondsii OX=703756 GN=CSIM01_13620 PE=3 SV=1
+positive,A0A430QWG2,A0A430QWG2_THESC Beta-glucosidase OS=Thermus scotoductus OX=37636 GN=CSW47_15900 PE=3 SV=1
+negative,A0A8H6EMB2,A0A8H6EMB2_9HELO beta-glucosidase OS=Botrytis fragariae OX=1964551 GN=Bfra_001487 PE=3 SV=1
+positive,X5DQV9,X5DQV9_9CORY Thermostable beta-glucosidase B OS=Corynebacterium glyciniphilum AJ 3170 OX=1404245 GN=bglB PE=3 SV=1
+negative,B9RZM5,B9RZM5_RICCO Periplasmic beta-glucosidase- putative OS=Ricinus communis OX=3988 GN=RCOM_0999830 PE=4 SV=1
+positive,A0A1R3TSS4,A0A1R3TSS4_9HYPH Thermostable beta-glucosidase B OS=Agrobacterium sp. DSM 25558 OX=1907665 GN=bglB_2 PE=3 SV=1
+negative,A0A8H5W4G9,A0A8H5W4G9_9HYPO Probable beta-glucosidase G OS=Fusarium tjaetaba OX=1567544 GN=FTJAE_2597 PE=3 SV=1
+positive,A0A2X3L130,A0A2X3L130_9ENTR Thermostable beta-glucosidase B OS=Cedecea neteri OX=158822 GN=bglB PE=3 SV=1
+negative,A0A5N5CXZ1,A0A5N5CXZ1_9PEZI Probable beta-glucosidase G OS=Lasiodiplodia theobromae OX=45133 GN=bglG_1 PE=3 SV=1
+positive,L0IIV7,L0IIV7_THETR beta-glucosidase OS=Thermoanaerobacterium thermosaccharolyticum M0795 OX=698948 GN=Thethe_01826 PE=3 SV=1
+negative,A0A4Z1IZ62,A0A4Z1IZ62_9HELO Alpha/beta-glucosidase agdC OS=Botryotinia narcissicola OX=278944 GN=BOTNAR_0068g00060 PE=3 SV=1
+positive,A0A1C5W7L5,A0A1C5W7L5_9BACE Thermostable beta-glucosidase B OS=uncultured Bacteroides sp OX=162156 GN=bglB_1 PE=3 SV=1
+negative,A0A4R2BMU0,A0A4R2BMU0_9BACI beta-glucosidase OS=Mesobacillus foraminis OX=279826 GN=EV146_102453 PE=4 SV=1
+positive,I8R1J8,I8R1J8_9THEO beta-glucosidase OS=Thermoanaerobacter siderophilus SR4 OX=880478 GN=ThesiDRAFT1_0211 PE=3 SV=1
+negative,A0A1L9U2Z8,A0A1L9U2Z8_ASPBC beta-glucosidase OS=Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946) OX=767769 GN=ASPBRDRAFT_35436 PE=3 SV=1
+positive,A0A173S1X1,A0A173S1X1_9FIRM Thermostable beta-glucosidase B OS=Roseburia faecis OX=301302 GN=bglB PE=3 SV=1
+negative,A0A5R9Q2R8,A0A5R9Q2R8_9GAMM beta-glucosidase OS=Pseudoalteromonas phenolica OX=161398 GN=C1E24_09875 PE=4 SV=1
+positive,A0A7C2LEU5,A0A7C2LEU5_9CREN beta-glucosidase OS=Thermofilum sp OX=1961369 GN=ENN82_05440 PE=3 SV=1
+negative,A0AAE6NQJ4,A0AAE6NQJ4_STRPT Beta-glucosidase OS=Streptomyces platensis OX=58346 GN=CP981_34835 PE=3 SV=1
+positive,A0A399F7M4,A0A399F7M4_9DEIN Beta-glucosidase OS=Meiothermus granaticius NBRC 107808 OX=1227551 GN=bglA_1 PE=3 SV=1
+negative,A0A7W7U8I8,A0A7W7U8I8_9ACTN Beta-glucosidase OS=Streptomyces nymphaeiformis OX=2663842 GN=GGE06_007952 PE=3 SV=1
+positive,D3Y2V4,D3Y2V4_THEET beta-glucosidase OS=Thermoanaerobacter ethanolicus OX=1757 GN=bglA PE=3 SV=1
+negative,A0A2R7JSN1,A0A2R7JSN1_9FLAO beta-glucosidase (Fragment) OS=Flavobacterium sp. HMWF030 OX=2056864 GN=DBR27_24235 PE=4 SV=1
+positive,A0A564UKG7,A0A564UKG7_9FIRM Thermostable beta-glucosidase B OS=[Ruminococcus] torques OX=33039 GN=bglB_8 PE=3 SV=1
+negative,A0A7W4PT27,A0A7W4PT27_9ESCH beta-glucosidase OS=Escherichia sp. 0.2392 OX=2730946 GN=bglX PE=3 SV=1
+positive,A0A7C0YJF4,A0A7C0YJF4_9CREN beta-glucosidase (Fragment) OS=Thermoproteales archaeon OX=2268205 GN=ENF87_02545 PE=3 SV=1
+negative,A0A426Y991,A0A426Y991_ENSVE beta-glucosidase OS=Ensete ventricosum OX=4639 GN=B296_00053198 PE=4 SV=1
+positive,A0A1C5R7Q8,A0A1C5R7Q8_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_6 PE=3 SV=1
+negative,A0A8J2IR83,A0A8J2IR83_FUSEQ beta-glucosidase OS=Fusarium equiseti OX=61235 GN=FEQUK3_LOCUS8060 PE=3 SV=1
+positive,A0A662V1C1,A0A662V1C1_9CREN beta-glucosidase OS=Thermoprotei archaeon OX=2250277 GN=DRO39_08105 PE=3 SV=1
+negative,A0A1C4LFC9,A0A1C4LFC9_9ACTN Beta-glucosidase OS=Streptomyces sp. ScaeMP-e83 OX=1758151 GN=GA0115243_1039101 PE=3 SV=1
+positive,A0AAQ1ZJC6,A0AAQ1ZJC6_9BACT Thermostable beta-glucosidase B OS=Segatella buccae OX=28126 GN=bglB_1 PE=4 SV=1
+negative,A0A1Z5TP57,A0A1Z5TP57_HORWE beta-glucosidase OS=Hortaea werneckii EXF-2000 OX=1157616 GN=BTJ68_01901 PE=3 SV=1
+positive,A0A174NDB9,A0A174NDB9_9FIRM Thermostable beta-glucosidase B OS=Agathobacter rectalis OX=39491 GN=bglB_5 PE=3 SV=1
+negative,A0A1C3J8B9,A0A1C3J8B9_9VIBR beta-glucosidase OS=Vibrio celticus OX=446372 GN=bglX_2 PE=3 SV=1
+positive,A0A564UTT8,A0A564UTT8_9FIRM Thermostable beta-glucosidase B OS=Faecalibacterium prausnitzii OX=853 GN=bglB_2 PE=3 SV=1
+negative,A0A955AIW0,A0A955AIW0_9BACT beta-glucosidase (Fragment) OS=Planctomycetales bacterium OX=2053591 GN=KDA99_30520 PE=3 SV=1
+positive,A0A069S4Z7,A0A069S4Z7_9BACT Thermostable beta-glucosidase B OS=Parabacteroides distasonis str. 3776 Po2 i OX=1339341 GN=bglB PE=3 SV=1
+negative,A0A5Q2NSP4,A0A5Q2NSP4_9BACL beta-glucosidase OS=Paenibacillus sp. B01 OX=2660554 GN=GE073_20770 PE=4 SV=1
+positive,A0A5J4RPR5,A0A5J4RPR5_9ZZZZ Thermostable beta-glucosidase B OS=termite gut metagenome OX=433724 GN=EZS27_015888 PE=3 SV=1
+negative,A0A1C5QUE8,A0A1C5QUE8_9BACE Periplasmic beta-glucosidase OS=uncultured Bacteroides sp OX=162156 GN=bglX_7 PE=4 SV=1
+positive,A0A174KHX2,A0A174KHX2_9FIRM Thermostable beta-glucosidase B OS=Fusicatenibacter saccharivorans OX=1150298 GN=bglB_5 PE=3 SV=1
+negative,A0A0M8M8Q6,A0A0M8M8Q6_9FLAO beta-glucosidase OS=Flavobacterium akiainvivens OX=1202724 GN=AM493_07225 PE=3 SV=1
+positive,A0A173T8F6,A0A173T8F6_9FIRM Thermostable beta-glucosidase B OS=Roseburia intestinalis OX=166486 GN=bglB_3 PE=3 SV=1
+negative,A0A0U5J538,A0A0U5J538_9GAMM Beta-glucosidase OS=Thiocapsa sp. KS1 OX=610332 GN=bglA PE=3 SV=1
+positive,A0A498PL91,A0A498PL91_9MYCO Thermostable beta-glucosidase B OS=Mycobacterium innocens OX=2341083 GN=bglB_1 PE=3 SV=1
+negative,A0A0R0B5R7,A0A0R0B5R7_STEMA beta-glucosidase OS=Stenotrophomonas maltophilia OX=40324 GN=ARC23_05685 PE=4 SV=1
+positive,A0AA41WBJ9,A0AA41WBJ9_9BACT Beta-glucosidase OS=Thermalbibacter longus OX=2951981 GN=NET02_06275 PE=3 SV=1
+negative,A0A537KJ93,A0A537KJ93_9BACT beta-glucosidase (Fragment) OS=Terrabacteria group bacterium ANGP1 OX=2569760 GN=E6H01_14225 PE=3 SV=1
+positive,A0A1C5XQE2,A0A1C5XQE2_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_1 PE=3 SV=1
+negative,A0A8E6K535,A0A8E6K535_SALEB beta-glucosidase OS=Salmonella enterica subsp. enterica serovar Paratyphi B str. CFSAN000542 OX=1299078 GN=bglX PE=3 SV=1
+positive,A0A1C5VCI2,A0A1C5VCI2_9FIRM Thermostable beta-glucosidase B OS=uncultured Ruminococcus sp OX=165186 GN=bglB_1 PE=3 SV=1
+negative,A0A964YHM9,A0A964YHM9_9BACT beta-glucosidase OS=Chitinophagia bacterium OX=2448778 GN=EBU73_01545 PE=4 SV=1
+positive,A0A840PIS9,A0A840PIS9_9ACTN Beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_008795 PE=3 SV=1
+negative,A0A0D3VHQ8,A0A0D3VHQ8_9BACL beta-glucosidase OS=Paenibacillus sp. IHBB 10380 OX=1566358 GN=UB51_24880 PE=3 SV=1
+positive,A0A1M6B6U0,A0A1M6B6U0_9FLAO Beta-glucosidase OS=Pseudozobellia thermophila OX=192903 GN=SAMN04488513_101300 PE=3 SV=1
+negative,A0A1B9R3B1,A0A1B9R3B1_9VIBR beta-glucosidase OS=Vibrio genomosp. F10 OX=723171 GN=A6E14_04025 PE=4 SV=1
+positive,A0A399H562,A0A399H562_9ACTN Thermostable beta-glucosidase B OS=Streptomyces sp. YIM 130001 OX=2259644 GN=bglB1 PE=3 SV=1
+negative,A0A7Z8K1Y0,A0A7Z8K1Y0_9CELL beta-glucosidase OS=Cellulomonas hominis OX=156981 GN=FA014_05330 PE=4 SV=1
+positive,A0A1B1N9T4,A0A1B1N9T4_9MICO Beta-glucosidase OS=Serinicoccus hydrothermalis OX=1758689 GN=SGUI_0775 PE=3 SV=1
+negative,A0A2M8AMH3,A0A2M8AMH3_9FLAO beta-glucosidase OS=Flavobacteriaceae bacterium CG_4_9_14_3_um_filter_33_16 OX=1973993 GN=CO117_06875 PE=3 SV=1
+positive,A0A840PIL4,A0A840PIL4_9ACTN Beta-glucosidase OS=Thermocatellispora tengchongensis OX=1073253 GN=HNP84_006699 PE=3 SV=1
+negative,A0A7Y0B921,A0A7Y0B921_9ACTN Beta-glucosidase OS=Streptomyces sp. R302 OX=2728844 GN=HHL19_23155 PE=3 SV=1
+positive,G2MUZ4,G2MUZ4_9THEO beta-glucosidase OS=Thermoanaerobacter wiegelii Rt8.B1 OX=697303 GN=Thewi_0409 PE=3 SV=1
+negative,A0A4U6X9A8,A0A4U6X9A8_9PEZI beta-glucosidase OS=Colletotrichum tanaceti OX=1306861 GN=bglF PE=3 SV=1
+positive,A0A1V5TTB5,A0A1V5TTB5_9FIRM Thermostable beta-glucosidase B OS=Firmicutes bacterium ADurb.Bin262 OX=1852887 GN=bglB_2 PE=3 SV=1
+negative,A0A4R6KLH2,A0A4R6KLH2_9ACTN Beta-glucosidase OS=Kribbella sp. VKM Ac-2527 OX=2512215 GN=EV643_10250 PE=3 SV=1
+positive,A0A3S5CVT1,A0A3S5CVT1_9PEZI beta-glucosidase OS=Thermothielavioides terrestris OX=2587410 GN=TT172_LOCUS1031 PE=3 SV=1
+negative,A0A6C8H0R6,A0A6C8H0R6_SALET beta-glucosidase OS=Salmonella enterica subsp. enterica serovar Uganda str. R8-3404 OX=913083 GN=LTSEUGA_3179 PE=3 SV=1
+positive,A0A1C5R7W5,A0A1C5R7W5_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_5 PE=3 SV=1
+negative,A0A9N9LEK1,A0A9N9LEK1_9HELO Probable alpha/beta-glucosidase agdC OS=Hymenoscyphus albidus OX=595503 GN=HYALB_00001381 PE=3 SV=1
+positive,A0A231GU40,A0A231GU40_9NOCA Thermostable beta-glucosidase B OS=Nocardia cerradoensis OX=85688 GN=bglB_2 PE=3 SV=1
+negative,V9DB01,V9DB01_9EURO Probable beta-glucosidase E OS=Cladophialophora carrionii CBS 160.54 OX=1279043 GN=G647_04949 PE=3 SV=1
+positive,A0A166H979,A0A166H979_9MICO Thermostable beta-glucosidase B OS=Rathayibacter tanaceti OX=1671680 GN=bglB_1 PE=3 SV=1
+negative,A0A259N9V0,A0A259N9V0_9PSED beta-glucosidase OS=Pseudomonas sp. 34-62-33 OX=1970429 GN=B7X51_05755 PE=4 SV=1
+positive,A0A6N1VGS4,A0A6N1VGS4_9HYPH Beta-glucosidase OS=Oricola thermophila OX=2742145 GN=HTY61_17520 PE=3 SV=1
+negative,A0A2S6XFW6,A0A2S6XFW6_9ACTN beta-glucosidase OS=Streptomyces sp. MH60 OX=1940758 GN=bglX_2 PE=3 SV=1
+positive,A0A1V4IZT3,A0A1V4IZT3_9CLOT Thermostable beta-glucosidase B OS=Clostridium oryzae OX=1450648 GN=bglB_2 PE=3 SV=1
+negative,A0AAC9SV17,A0AAC9SV17_9MICO Beta-glucosidase OS=Cryobacterium sp. LW097 OX=1978566 GN=B7495_02035 PE=3 SV=1
+positive,A0A1M4SEV8,A0A1M4SEV8_9THEO beta-glucosidase OS=Thermoanaerobacter uzonensis DSM 18761 OX=1123369 GN=SAMN02745195_00120 PE=3 SV=1
+negative,A0A1V6QCV0,A0A1V6QCV0_9EURO beta-glucosidase OS=Penicillium antarcticum OX=416450 GN=PENANT_c006G05588 PE=3 SV=1
+positive,A0A7X7TGJ0,A0A7X7TGJ0_9THEM Beta-glucosidase OS=Thermotogaceae bacterium OX=2268206 GN=GX462_04330 PE=3 SV=1
+negative,A0A2K9AYE8,A0A2K9AYE8_9BACT beta-glucosidase OS=Tenericutes bacterium MZ-XQ OX=1911683 GN=BK011_09360 PE=4 SV=1
+positive,A0A0F0KMJ7,A0A0F0KMJ7_9MICO Thermostable beta-glucosidase B OS=Microbacterium oxydans OX=82380 GN=bglB_2 PE=3 SV=1
+negative,A0A368ZUH9,A0A368ZUH9_9GAMM Beta-glucosidase OS=Marinomonas foliarum OX=491950 GN=DFP77_12575 PE=3 SV=1
+positive,Q47RE2,Q47RE2_THEFY Beta-glucosidase OS=Thermobifida fusca (strain YX) OX=269800 GN=Tfu_0937 PE=3 SV=1
+negative,A0A0Q4LEX0,A0A0Q4LEX0_9SPHN beta-glucosidase OS=Sphingomonas sp. Leaf38 OX=1736217 GN=ASE88_02960 PE=4 SV=1
+positive,A0A4P7GU13,A0A4P7GU13_9FIRM Beta-glucosidase OS=Thermaerobacter sp. FW80 OX=2546351 GN=E1B22_08135 PE=3 SV=1
+negative,A0A3C2A127,A0A3C2A127_9BACT beta-glucosidase (Fragment) OS=Cytophagales bacterium OX=2053541 GN=DCR93_16485 PE=3 SV=1
+positive,A0A6N3B5S3,A0A6N3B5S3_9CLOT Thermostable beta-glucosidase B OS=uncultured Clostridium sp OX=59620 GN=bglB_1 PE=3 SV=1
+negative,A0A1E1K1H4,A0A1E1K1H4_9HELO beta-glucosidase OS=Rhynchosporium agropyri OX=914238 GN=RAG0_02529 PE=3 SV=1
+positive,A0A1C5SIQ8,A0A1C5SIQ8_9FIRM Thermostable beta-glucosidase B OS=uncultured Blautia sp OX=765821 GN=bglB_14 PE=3 SV=1
+negative,A0A7W8H3M7,A0A7W8H3M7_RHILE Beta-glucosidase OS=Rhizobium leguminosarum OX=384 GN=HNP83_005309 PE=3 SV=1
+positive,A0A448KCM1,A0A448KCM1_9ACTO Thermostable beta-glucosidase B OS=Actinomyces slackii OX=52774 GN=bglB_2 PE=3 SV=1
+negative,A0A1M7N9M1,A0A1M7N9M1_9ACTN Beta-glucosidase OS=Cryptosporangium aurantiacum OX=134849 GN=SAMN05443668_102500 PE=3 SV=1
+positive,A0A831TFL0,A0A831TFL0_9BACT beta-glucosidase (Fragment) OS=Thermorudis peleae OX=1382356 GN=ENP34_05945 PE=3 SV=1
+negative,A0A537KP81,A0A537KP81_UNCBA beta-glucosidase OS=Bacteroidota bacterium OX=1898104 GN=E6H06_02205 PE=3 SV=1
+positive,A0A1C5W6E0,A0A1C5W6E0_9FIRM Thermostable beta-glucosidase B OS=uncultured Coprococcus sp OX=458253 GN=bglB_1 PE=3 SV=1
+negative,A0A2W4QTR5,A0A2W4QTR5_UNCCH beta-glucosidase (Fragment) OS=Chloroflexota bacterium OX=2026724 GN=DIU68_20120 PE=3 SV=1
+positive,A0A347WEA6,A0A347WEA6_9PROT Thermostable beta-glucosidase B OS=Komagataeibacter saccharivorans OX=265959 GN=bglB_2 PE=3 SV=1
+negative,A0A2D7LHW7,A0A2D7LHW7_9RHOB Beta-glucosidase (Fragment) OS=Marinovum sp OX=2024839 GN=CMH02_10035 PE=3 SV=1
+positive,A0A7Z7LVS5,A0A7Z7LVS5_9FLAO Thermostable beta-glucosidase B OS=Elizabethkingia anophelis OX=1117645 GN=bglB_1 PE=3 SV=1
+negative,A0A7S3SW08,A0A7S3SW08_EMIHU beta-glucosidase OS=Emiliania huxleyi OX=2903 GN=EHUX00137_LOCUS27872 PE=4 SV=1
+positive,P38645,BGLB_THEBI Thermostable beta-glucosidase B OS=Thermobispora bispora OX=2006 GN=bglB PE=1 SV=1
+negative,A0A7K2SIU4,A0A7K2SIU4_9ACTN Beta-glucosidase OS=Streptomyces sp. SID8364 OX=2690347 GN=GTY69_31745 PE=3 SV=1
+positive,A0A3N2H1S6,A0A3N2H1S6_9PSEU beta-glucosidase OS=Amycolatopsis thermoflava OX=84480 GN=EDD35_5238 PE=3 SV=1
+negative,A0A4P7JIG7,A0A4P7JIG7_9RHOB Beta-glucosidase OS=Boseongicola sp. CCM32 OX=2552942 GN=E2K80_07735 PE=3 SV=1
+positive,A0A564VXR4,A0A564VXR4_9FIRM Thermostable beta-glucosidase B OS=Blautia luti OX=89014 GN=bglB_3 PE=3 SV=1
+negative,A0A4Z1EW19,A0A4Z1EW19_9HELO beta-glucosidase OS=Botrytis tulipae OX=87230 GN=BTUL_0038g00600 PE=3 SV=1
+positive,A0A2Z3YSU0,A0A2Z3YSU0_9CORY Thermostable beta-glucosidase B OS=Corynebacterium provencense OX=1737425 GN=bglB PE=3 SV=1
+negative,B8MQH6,B8MQH6_TALSN Probable beta-glucosidase btgE OS=Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) OX=441959 GN=TSTA_058670 PE=4 SV=1
+positive,A0A1V4SQ16,A0A1V4SQ16_RUMHU Thermostable beta-glucosidase B OS=Ruminiclostridium hungatei OX=48256 GN=bglB PE=3 SV=1
+negative,A0A923IHP4,A0A923IHP4_9CHLR Glycoside hydrolase family 1 protein OS=Anaerolinea sp OX=1872519 GN=C0396_02990 PE=3 SV=1
+positive,A0A161KB37,A0A161KB37_9EURY Beta-galactosidase / Beta-glucosidase / Beta-fucosidase OS=Thermococcus chitonophagus OX=54262 GN=CHITON_2151 PE=3 SV=1
+negative,A0A0Q9T503,A0A0Q9T503_9ACTN Beta-glucosidase OS=Nocardioides sp. Soil805 OX=1736416 GN=ASG94_10665 PE=3 SV=1
+positive,A0A6N3GZJ6,A0A6N3GZJ6_9FIRM Thermostable beta-glucosidase B OS=Roseburia intestinalis OX=166486 GN=bglB_5 PE=3 SV=1
+negative,A0A3M7HRF1,A0A3M7HRF1_HORWE Probable beta-glucosidase E OS=Hortaea werneckii OX=91943 GN=D0862_01530 PE=3 SV=1
+positive,A0A1R3U6H8,A0A1R3U6H8_9HYPH Thermostable beta-glucosidase B OS=Agrobacterium rosae OX=1972867 GN=bglB_2 PE=3 SV=1
+negative,A0A178ALC0,A0A178ALC0_9PLEO beta-glucosidase OS=Stagonospora sp. SRC1lsM3a OX=765868 GN=IQ06DRAFT_295816 PE=3 SV=1
+positive,A0A161YI14,A0A161YI14_9CELL Thermostable beta-glucosidase B OS=Oerskovia enterophila OX=43678 GN=bglB_1 PE=3 SV=1
+negative,Q1L732,Q1L732_WICAO beta-glucosidase (Fragment) OS=Wickerhamomyces anomalus OX=4927 PE=3 SV=1
+positive,A0A6N3EFP4,A0A6N3EFP4_MEDGN Thermostable beta-glucosidase B OS=Mediterraneibacter gnavus OX=33038 GN=bglB_7 PE=3 SV=1
+negative,A0AAJ2YDT2,A0AAJ2YDT2_9ACTN Beta-glucosidase OS=Streptomyces sp. XHT-2 OX=2692621 GN=GSE51_05840 PE=3 SV=1
+positive,A0A0C7NRK3,A0A0C7NRK3_DEFTU Thermostable beta-glucosidase B OS=Defluviitoga tunisiensis OX=1006576 GN=bglB3 PE=3 SV=1
+negative,A0A924G759,A0A924G759_9MICO Beta-glucosidase OS=Salinibacterium sp OX=1915057 GN=H7226_02500 PE=3 SV=1
+positive,G0S404,G0S404_CHATD beta-glucosidase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0022080 PE=3 SV=1
+negative,A0A437JJK0,A0A437JJK0_9GAMM beta-glucosidase OS=Rheinheimera sp. YQF-1 OX=2499626 GN=EMM73_07515 PE=4 SV=1
+positive,A0A161K964,A0A161K964_9ZZZZ Beta-glucosidase OS=hydrothermal vent metagenome OX=652676 GN=MGWOODY_Mmi56 PE=4 SV=1
+negative,F7M1K0,F7M1K0_9BACE beta-glucosidase OS=Bacteroides sp. 1_1_30 OX=457387 GN=HMPREF0127_01334 PE=4 SV=1
+positive,A0A397GVJ0,A0A397GVJ0_ASPTH beta-glucosidase OS=Aspergillus thermomutatus OX=41047 GN=CDV56_100266 PE=3 SV=1
+negative,A0A506U6X2,A0A506U6X2_9HYPH beta-glucosidase OS=Martelella alba OX=2590451 GN=FJU08_14675 PE=4 SV=1
+positive,A0A941E8S6,A0A941E8S6_9ACTN Family 1 glycosylhydrolase OS=Actinospica acidithermotolerans OX=2828514 GN=KDK95_06800 PE=3 SV=1
+negative,A0A4P7JMI8,A0A4P7JMI8_9GAMM beta-glucosidase OS=Thalassotalea sp. HSM 43 OX=2552945 GN=E2K93_02230 PE=4 SV=1
+positive,D6Y408,D6Y408_THEBD Beta-glucosidase OS=Thermobispora bispora (strain ATCC 19993 / DSM 43833 / CBS 139.67 / JCM 10125 / KCTC 9307 / NBRC 14880 / R51) OX=469371 GN=Tbis_2406 PE=4 SV=1
+negative,A0A8H7PM06,A0A8H7PM06_9FUNG beta-glucosidase OS=Umbelopsis vinacea OX=44442 GN=INT44_007303 PE=3 SV=1
+positive,A0A174RPG4,A0A174RPG4_9FIRM Thermostable beta-glucosidase B OS=Blautia wexlerae OX=418240 GN=bglB_5 PE=3 SV=1
+negative,A0A430M5V5,A0A430M5V5_9HYPO beta-glucosidase OS=Fusarium euwallaceae OX=1147111 GN=BHE90_002186 PE=3 SV=1
+positive,A0A921GDI7,A0A921GDI7_9ACTN beta-glucosidase OS=Thermophilibacter provencensis OX=1852386 GN=K8U72_00580 PE=4 SV=1
+negative,A0A3A6E4J0,A0A3A6E4J0_9FIRM beta-glucosidase OS=Faecalibacterium sp. AM43-5AT OX=2302957 GN=DW937_06755 PE=3 SV=1
+positive,A0A6V8NRC0,A0A6V8NRC0_9ACTN Beta-glucosidase OS=Candidatus Hakubella thermalkaliphila OX=2754717 GN=HKBW3S06_01160 PE=3 SV=1
+negative,A0A3D3MKM0,A0A3D3MKM0_9FLAO beta-glucosidase OS=Chryseobacterium sp OX=1871047 GN=DIT10_19340 PE=3 SV=1
+positive,A0A6N2RAS5,A0A6N2RAS5_9BIFI Thermostable beta-glucosidase B OS=Bifidobacterium dentium OX=1689 GN=bglB_3 PE=3 SV=1
+negative,A0A0Q9EMW1,A0A0Q9EMW1_9GAMM Beta-glucosidase OS=Lysobacter sp. Root96 OX=1736612 GN=ASE45_08105 PE=3 SV=1
+positive,A0A448HFS6,A0A448HFS6_9ACTO Thermostable beta-glucosidase B OS=Actinomyces howellii OX=52771 GN=bglB_1 PE=3 SV=1
+negative,A0A924BPF7,A0A924BPF7_9BURK Beta-glucosidase OS=Rhizobacter sp OX=1909292 GN=H7337_19000 PE=3 SV=1
+positive,A0A3B9QN16,A0A3B9QN16_9BACT beta-glucosidase OS=Candidatus Acetothermia bacterium OX=2053493 GN=DCL37_03260 PE=4 SV=1
+negative,A0A9W9TY74,A0A9W9TY74_9EURO Probable beta-glucosidase E OS=Penicillium chermesinum OX=63820 GN=N7468_000274 PE=3 SV=1
+positive,D6Y646,D6Y646_THEBD Beta-glucosidase OS=Thermobispora bispora (strain ATCC 19993 / DSM 43833 / CBS 139.67 / JCM 10125 / KCTC 9307 / NBRC 14880 / R51) OX=469371 GN=Tbis_2763 PE=3 SV=1
+negative,A0A1U8MZP0,A0A1U8MZP0_GOSHI beta-glucosidase OS=Gossypium hirsutum OX=3635 GN=LOC107941931 PE=4 SV=1
+positive,A0A953A5L0,A0A953A5L0_9CHLR beta-glucosidase OS=Thermogemmatispora sp OX=1968838 GN=IRZ24_00050 PE=4 SV=1
+negative,A0A074RHH0,A0A074RHH0_9AGAM Probable beta-glucosidase G (Fragment) OS=Rhizoctonia solani 123E OX=1423351 GN=V565_212390 PE=3 SV=1
+positive,A0A0D8HUW0,A0A0D8HUW0_RHOSX Thermostable beta-glucosidase B OS=Rhodococcus sp. (strain AD45) OX=103808 GN=bglB_2 PE=3 SV=1
+negative,A0A1Q7WHV7,A0A1Q7WHV7_9ACTN Beta-glucosidase OS=Actinobacteria bacterium 13_1_20CM_3_71_11 OX=1803477 GN=AUG44_01440 PE=3 SV=1
