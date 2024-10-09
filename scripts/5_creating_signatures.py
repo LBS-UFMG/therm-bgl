@@ -17,6 +17,17 @@ signa.read_folder(
     format='pdb'
 )
 
+signa.read_folder(
+    folder='../data/pdb_filtered/test', 
+    signa_type='acsm-all', 
+    #forcefield='AMBER',
+    cumulative=True,
+    output='../input/test_acsm_all_10_0.1.csv',
+    cutoff_limit=10,
+    cutoff_step=0.1,
+    format='pdb'
+)
+
 # SSV - Comparisons between signatures
 #ssv = signa.ssv(entry, entry)
 #print(ssv)
