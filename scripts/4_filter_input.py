@@ -21,7 +21,6 @@ te_pos = 0
 print(len(files1), len(files2))
 
 for i in files1:
-	continue
 	pdb = i[:-4].replace("../data/pdb/train/","")
 	for j in tr:
 		metadata = j.strip().split(',')
