@@ -10,7 +10,7 @@
 **Figure S8.** &nbsp;Time for training the models: Logistic Regression, Gradient Boosting (scikit-learn), Neural Network, catboost (Gradient Boosting), Random Forest, KNN, and SVM.</span></p><p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 457.23px; height: 246.96px;"><img alt="" src="images/image1.png" style="width: 457.23px; height: 246.96px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
 
 
-**Table S1.** Predictions.
+**Table S1.** Predictions for test dataset. GB: Gradient Boostin; LR: Logistic Regression; RF: Random Forest; NN: Neural Network.
 
 | class    | uniprot_id | kNN      | catboost | GB       | LR       | RF       | NN       | SVM      | 
 |----------|------------|----------|----------|----------|----------|----------|----------|----------|
