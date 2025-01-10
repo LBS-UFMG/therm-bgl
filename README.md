@@ -12,6 +12,7 @@
 
 **Table S1.** Predictions.
 
+<table>
 | class | uniprot_id | kNN | catboost | Gradient Boosting | Logistic Regression | Random Forest | Neural Network | SVM | 
 |----------|---------------|----------|----------|--------------------|---------------------|---------------|----------|
 | negative | A0A059AC90 | negative | negative | negative | negative | negative | negative | negative | 
@@ -277,11 +278,11 @@
 | negative | A0A848QJX3 | positive | negative | positive | negative | positive | negative | positive | 
 | negative | A0A853CQ66 | positive | negative | negative | positive | positive | negative | negative | 
 | negative | A0A8B5WT26 | negative | negative | negative | positive | negative | positive | negative | 
-| negative | A7V8A6 | negative | negative | negative | negative | negative | negative | positive | 
-| negative | B6H0M5 | positive | positive | positive | positive | negative | positive | negative | 
-| negative | B8MQH6 | positive | negative | negative | positive | negative | negative | negative | 
-| negative | B9RZM5 | negative | negative | negative | negative | negative | negative | positive | 
-| negative | C5XLK0 | negative | negative | negative | negative | negative | negative | positive | 
+| negative | A7V8A6     | negative | negative | negative | negative | negative | negative | positive | 
+| negative | B6H0M5     | positive | positive | positive | positive | negative | positive | negative | 
+| negative | B8MQH6     | positive | negative | negative | positive | negative | negative | negative | 
+| negative | B9RZM5     | negative | negative | negative | negative | negative | negative | positive | 
+| negative | C5XLK0     | negative | negative | negative | negative | negative | negative | positive | 
 | negative | D6RVX0 | positive | positive | positive | positive | positive | positive | positive | 
 | negative | E3ZPC9 | negative | negative | negative | negative | negative | negative | positive | 
 | negative | F0RYB6 | positive | positive | positive | positive | positive | positive | positive | 
@@ -597,3 +598,4 @@
 | positive | T4VHL0 | negative | positive | positive | negative | positive | positive | positive | 
 | positive | U5MQR5 | positive | positive | positive | positive | positive | positive | positive | 
 | positive | X5DQV9 | positive | positive | positive | positive | positive | positive | positive | 
+</table>
