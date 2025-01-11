@@ -611,10 +611,10 @@
 | D6RVX0, F0RYB6, F7M1K0, M1CZQ6, M3D3N7, W2Z0K9                                                                               |
 
 
-**Table S3.** Sequence alignment.
+**Table S3.** Case study - sequence alignment (generated using Clustal Omega).
 
 <table>
-	<tr><td>
+<tr><td>
 <code>
 A0A0G0PX59|np      MSDKNILIFPKNFLWGAATSAYQVEGGITNE------WSEWEKTNADRLAEEAKTYYQDW	54
 A0A087E2J5|pn      ------MHVPRHFVFGTATAAYQIEGSPKADGRTPSIWDVYSHTPGKT------------	42
