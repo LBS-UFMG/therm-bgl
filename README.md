@@ -613,6 +613,8 @@
 
 **Table S3.** Sequence alignment.
 
+<table>
+	<tr><td>
 <code>
 A0A0G0PX59|np      MSDKNILIFPKNFLWGAATSAYQVEGGITNE------WSEWEKTNADRLAEEAKTYYQDW	54
 A0A087E2J5|pn      ------MHVPRHFVFGTATAAYQIEGSPKADGRTPSIWDVYSHTPGKT------------	42
@@ -669,3 +671,4 @@ A0A0B3BP14|pp      VDYETQ-KRILKDSAWWYKEVIKRERIE--	446
                    ***:    *  ::*   *  :   . :  
 
 </code>
+</td></tr></table>
