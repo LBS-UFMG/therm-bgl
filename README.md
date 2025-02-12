@@ -671,3 +671,8 @@ A0A0B3BP14|pp      VDYETQ-KRILKDSAWWYKEVIKRERIE--	446
                    ***:    *  ::*   *  :   . :  
 </code>
 </td></tr></table>
+
+
+**Table S4.** TemStaPro results.
+
+Table available at <a href="data/results_TemStaPro.xlsx">results_TemStaPro.xlsx</a>.
