@@ -676,3 +676,19 @@ A0A0B3BP14|pp      VDYETQ-KRILKDSAWWYKEVIKRERIE--	446
 **Table S4.** TemStaPro results.
 
 Table available at <a href="data/results_TemStaPro.xlsx">results_TemStaPro.xlsx</a>.
+
+
+**Table S5.** Most important features according to Information Gain Ratio algorithm.
+
+| #  | Contact (Cutoff)             | Gain Ratio |
+|----|------------------------------|------------|
+| 1  | acceptor x aromatic (2.5-0)  | 0.097      |
+| 2  | sulfide x sulfide (3.3-0)    | 0.091      |
+| 3  | aromatic x sulfide (3.0-0)   | 0.091      |
+| 4  | neutral x sulfide (3.0-0)    | 0.091      |
+| 5  | aromatic x neutral (2.4-0)   | 0.088      |
+| 6  | aromatic x neutral (2.3-0)   | 0.086      |
+| 7  | acceptor x sulfide (2.9-0)   | 0.082      |
+| 8  | donor x sulfide (2.9-0)      | 0.082      |
+| 9  | aromatic x neutral (2.2-0)   | 0.082      |
+| 10 | donor x donor (2.1-0)        | 0.082      |
