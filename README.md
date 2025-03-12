@@ -678,17 +678,74 @@ A0A0B3BP14|pp      VDYETQ-KRILKDSAWWYKEVIKRERIE--	446
 Table available at <a href="data/results_TemStaPro.xlsx">results_TemStaPro.xlsx</a>.
 
 
-**Table S5.** Most important features according to Information Gain Ratio algorithm.
+**Table S5.** The most important features according to Information Gain, Information Gain Ratio, Gini, ReliefF, and X² algorithms.
 
-| #  | Contact (Cutoff)             | Gain Ratio |
-|----|------------------------------|------------|
-| 1  | acceptor x aromatic (2.5-0)  | 0.097      |
-| 2  | sulfide x sulfide (3.3-0)    | 0.091      |
-| 3  | aromatic x sulfide (3.0-0)   | 0.091      |
-| 4  | neutral x sulfide (3.0-0)    | 0.091      |
-| 5  | aromatic x neutral (2.4-0)   | 0.088      |
-| 6  | aromatic x neutral (2.3-0)   | 0.086      |
-| 7  | acceptor x sulfide (2.9-0)   | 0.082      |
-| 8  | donor x sulfide (2.9-0)      | 0.082      |
-| 9  | aromatic x neutral (2.2-0)   | 0.082      |
-| 10 | donor x donor (2.1-0)        | 0.082      |
+## Information Gain
+| #  | Interaction                    | Score  |
+|----|--------------------------------|--------|
+| 1  | neutral x neutral (2.1-0)      | 0.057  |
+| 2  | neutral x neutral (2.2-0)      | 0.057  |
+| 3  | neutral x neutral (2.3-0)      | 0.057  |
+| 4  | neutral x neutral (2.4-0)      | 0.055  |
+| 5  | neutral x neutral (1.9-0)      | 0.049  |
+| 6  | neutral x neutral (1.8-0)      | 0.049  |
+| 7  | neutral x neutral (1.7-0)      | 0.049  |
+| 8  | neutral x neutral (1.6-0)      | 0.049  |
+| 9  | neutral x neutral (2.0-0)      | 0.049  |
+| 10 | neutral x sulfide (3.2-0)      | 0.047  |
+
+## Gini
+| #  | Interaction                    | Score  |
+|----|--------------------------------|--------|
+| 1  | neutral x neutral (2.3-0)      | 0.039  |
+| 2  | neutral x neutral (2.2-0)      | 0.039  |
+| 3  | neutral x neutral (2.1-0)      | 0.039  |
+| 4  | neutral x neutral (2.4-0)      | 0.037  |
+| 5  | neutral x neutral (2.0-0)      | 0.033  |
+| 6  | neutral x neutral (1.6-0)      | 0.033  |
+| 7  | neutral x neutral (1.7-0)      | 0.033  |
+| 8  | neutral x neutral (1.8-0)      | 0.033  |
+| 9  | neutral x neutral (1.9-0)      | 0.033  |
+| 10 | neutral x sulfide (3.2-0)      | 0.031  |
+
+## Gain Ratio
+| #  | Interaction                    | Score  |
+|----|--------------------------------|--------|
+| 1  | acceptor x sulfide (3.0-0)     | 0.115  |
+| 2  | neutral x neutral (1.5-0)      | 0.114  |
+| 3  | acceptor x hydrophobic (2.3-0) | 0.107  |
+| 4  | acceptor x aromatic (2.6-0)    | 0.099  |
+| 5  | sulfide x sulfide (3.3-0)      | 0.097  |
+| 6  | neutral x sulfide (3.0-0)      | 0.097  |
+| 7  | aromatic x neutral (2.4-0)     | 0.097  |
+| 8  | aromatic x neutral (2.3-0)     | 0.096  |
+| 9  | donor x neutral (1.2-0)        | 0.096  |
+| 10 | donor x donor (2.1-0)          | 0.096  |
+
+## ReliefF
+| #  | Interaction                    | Score  |
+|----|--------------------------------|--------|
+| 1  | neutral x sulfide (3.2-0)      | 0.052  |
+| 2  | sulfide x sulfide (4.2-0)      | 0.035  |
+| 3  | sulfide x sulfide (4.1-0)      | 0.034  |
+| 4  | donor x sulfide (3.7-0)        | 0.030  |
+| 5  | acceptor x aromatic (2.7-0)    | 0.029  |
+| 6  | aromatic x sulfide (3.8-0)     | 0.028  |
+| 7  | donor x sulfide (3.4-0)        | 0.027  |
+| 8  | sulfide x sulfide (4.0-0)      | 0.026  |
+| 9  | acceptor x sulfide (3.9-0)     | 0.025  |
+| 10 | donor x sulfide (3.6-0)        | 0.025  |
+
+## Chi-Square (χ²)
+| #  | Interaction                    | Score  |
+|----|--------------------------------|--------|
+| 1  | donor x sulfide (3.4-0)        | 41.146 |
+| 2  | neutral x sulfide (3.2-0)      | 40.334 |
+| 3  | donor x sulfide (3.5-0)        | 38.217 |
+| 4  | acceptor x sulfide (3.8-0)     | 24.479 |
+| 5  | donor x sulfide (3.3-0)        | 24.050 |
+| 6  | donor x sulfide (3.6-0)        | 22.513 |
+| 7  | donor x sulfide (3.9-0)        | 21.759 |
+| 8  | acceptor x donor (2.2-0)       | 21.183 |
+| 9  | acceptor x sulfide (3.9-0)     | 20.629 |
+| 10 | acceptor x sulfide (4.0-0)     | 19.942 |
